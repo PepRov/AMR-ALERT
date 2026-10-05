@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/33061456/README.md)
 # AMR-ALERT
 
 **AMR-ALERT (Antimicrobial Resistance Alert Framework)** is a surveillance-based framework for forecasting when antimicrobial resistance is expected to reach a predefined threshold.
@@ -73,3 +74,11 @@ No patient-level data are included in this repository.
 **AMR-ALERT: Forecasting Phenotypic Antimicrobial Resistance Thresholds from National Surveillance Data**
 
 The repository is intended to support reproducibility and practical implementation of the AMR-ALERT framework described in the manuscript.
+
+## License
+
+The AMR-ALERT software and notebook code in this repository are released under the MIT License.
+
+The file `janis_compact_blood_named_validated.csv` is a processed aggregate dataset derived from publicly available JANIS surveillance reports. It is included for reproducibility and is **not relicensed under the MIT License**. Use of JANIS-derived data should retain appropriate JANIS source attribution and follow the applicable JANIS terms of use.
+
+UKHSA surveillance data are retrieved from the UKHSA Data Dashboard API and are not redistributed as a separate dataset in this repository.
