@@ -1,0 +1,1275 @@
+date,year,month,R,source_name,country,pathogen,antibiotic,specimen,pathogen_code,antibiotic_code,resistant_count,tested_count,resistance_percent
+2011-01-01,2011,1,0.002849002849002849,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,10,3510,0.2849002849002849
+2012-01-01,2012,1,0.004353393085787452,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,17,3905,0.43533930857874525
+2013-01-01,2013,1,0.00156564526951465,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,7,4471,0.156564526951465
+2014-01-01,2014,1,0.0025803890432711395,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,13,5038,0.25803890432711396
+2015-01-01,2015,1,0.0017874329712635776,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,13,7273,0.17874329712635775
+2016-01-01,2016,1,0.002524933720489837,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,20,7921,0.2524933720489837
+2017-01-01,2017,1,0.001885902876001886,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,16,8484,0.1885902876001886
+2018-01-01,2018,1,0.0022269235051775972,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,20,8981,0.22269235051775974
+2019-01-01,2019,1,0.001756118977060696,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,16,9111,0.17561189770606958
+2020-01-01,2020,1,0.0010237510237510238,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,10,9768,0.10237510237510238
+2021-01-01,2021,1,0.001465702560093805,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,15,10234,0.1465702560093805
+2022-01-01,2022,1,0.00175649440695202,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,19,10817,0.175649440695202
+2023-01-01,2023,1,0.0013266118333775537,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,15,11307,0.13266118333775537
+2024-01-01,2024,1,0.00045138575426559535,JANIS,Japan,Enterococcus faecalis,ampicillin,blood,Enterococcus faecalis,AMP,5,11077,0.04513857542655954
+2011-01-01,2011,1,0.5371446040966066,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,1757,3271,53.71446040966066
+2012-01-01,2012,1,0.5588876772082879,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,2050,3668,55.88876772082879
+2013-01-01,2013,1,0.5427329792370835,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,2248,4142,54.273297923708355
+2014-01-01,2014,1,0.5243799915931063,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,2495,4758,52.437999159310635
+2015-01-01,2015,1,0.5226841721371261,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,3583,6855,52.26841721371262
+2016-01-01,2016,1,0.5110418642460371,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,3772,7381,51.10418642460372
+2017-01-01,2017,1,0.5090175305839324,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4036,7929,50.90175305839324
+2018-01-01,2018,1,0.4914031501743417,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4087,8317,49.14031501743417
+2019-01-01,2019,1,0.4696236876253391,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,3981,8477,46.96236876253391
+2020-01-01,2020,1,0.4654388106069011,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4195,9013,46.54388106069011
+2021-01-01,2021,1,0.43526458899811754,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4162,9562,43.52645889981176
+2022-01-01,2022,1,0.42226201133989855,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4245,10053,42.22620113398985
+2023-01-01,2023,1,0.42524949132835965,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4389,10321,42.524949132835964
+2024-01-01,2024,1,0.40556900726392253,JANIS,Japan,Enterococcus faecalis,erythromycin,blood,Enterococcus faecalis,EM,4020,9912,40.55690072639225
+2011-01-01,2011,1,0.19563318777292577,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,672,3435,19.563318777292576
+2012-01-01,2012,1,0.16793893129770993,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,638,3799,16.793893129770993
+2013-01-01,2013,1,0.14140948871487793,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,614,4342,14.140948871487794
+2014-01-01,2014,1,0.12812690665039658,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,630,4917,12.812690665039659
+2015-01-01,2015,1,0.1296782212401602,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,939,7241,12.96782212401602
+2016-01-01,2016,1,0.1114399691159439,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,866,7771,11.143996911594389
+2017-01-01,2017,1,0.10408432147562582,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,869,8349,10.408432147562582
+2018-01-01,2018,1,0.09083628875414712,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,794,8741,9.083628875414712
+2019-01-01,2019,1,0.08058896257165336,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,717,8897,8.058896257165337
+2020-01-01,2020,1,0.08087852607473717,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,777,9607,8.087852607473717
+2021-01-01,2021,1,0.07432835820895523,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,747,10050,7.432835820895523
+2022-01-01,2022,1,0.07565507384468795,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,794,10495,7.565507384468795
+2023-01-01,2023,1,0.06804274362955522,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,745,10949,6.804274362955522
+2024-01-01,2024,1,0.06617238183503243,JANIS,Japan,Enterococcus faecalis,levofloxacin,blood,Enterococcus faecalis,LVX,714,10790,6.617238183503243
+2011-01-01,2011,1,0.4318758815232722,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,1531,3545,43.18758815232722
+2012-01-01,2012,1,0.4419619928094504,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,1721,3894,44.196199280945045
+2013-01-01,2013,1,0.43320653390020136,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,1936,4469,43.320653390020134
+2014-01-01,2014,1,0.4793774319066148,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,2464,5140,47.93774319066148
+2015-01-01,2015,1,0.47375345349296144,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,3601,7601,47.37534534929615
+2016-01-01,2016,1,0.4563366577475067,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,3752,8222,45.63366577475067
+2017-01-01,2017,1,0.47487237663074305,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,4186,8815,47.4872376630743
+2018-01-01,2018,1,0.4834401129330003,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,4452,9209,48.344011293300035
+2019-01-01,2019,1,0.44735715814252086,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,4181,9346,44.73571581425209
+2020-01-01,2020,1,0.45308470541559215,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,4568,10082,45.30847054155922
+2021-01-01,2021,1,0.47932011331444757,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,5076,10590,47.932011331444755
+2022-01-01,2022,1,0.4979742504726749,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,5531,11107,49.79742504726749
+2023-01-01,2023,1,0.4513755037673033,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,5152,11414,45.13755037673033
+2024-01-01,2024,1,0.4469819093677235,JANIS,Japan,Enterococcus faecalis,minocycline,blood,Enterococcus faecalis,MNO,4991,11166,44.69819093677235
+2011-01-01,2011,1,0.023908192540643927,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,75,3137,2.3908192540643927
+2012-01-01,2012,1,0.02056555269922879,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,72,3501,2.056555269922879
+2013-01-01,2013,1,0.014691235059760957,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,59,4016,1.4691235059760956
+2014-01-01,2014,1,0.01366742596810934,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,60,4390,1.366742596810934
+2015-01-01,2015,1,0.013331217267100461,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,84,6301,1.3331217267100461
+2016-01-01,2016,1,0.012418687167356593,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,84,6764,1.2418687167356592
+2017-01-01,2017,1,0.009784735812133072,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,70,7154,0.9784735812133072
+2018-01-01,2018,1,0.010059324219757545,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,78,7754,1.0059324219757546
+2019-01-01,2019,1,0.009155016701719658,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,74,8083,0.9155016701719658
+2020-01-01,2020,1,0.009164969450101833,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,81,8838,0.9164969450101833
+2021-01-01,2021,1,0.008091487754881865,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,75,9269,0.8091487754881865
+2022-01-01,2022,1,0.009541209906617946,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,94,9852,0.9541209906617946
+2023-01-01,2023,1,0.006973089766254174,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,71,10182,0.6973089766254174
+2024-01-01,2024,1,0.006075334143377886,JANIS,Japan,Enterococcus faecalis,penicillin,blood,Enterococcus faecalis,PEN,60,9876,0.6075334143377886
+2011-01-01,2011,1,0.00031318509238960227,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,1,3193,0.03131850923896023
+2012-01-01,2012,1,0.00027831895352073476,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,1,3593,0.027831895352073477
+2013-01-01,2013,1,0.00023963575365444525,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,1,4173,0.023963575365444526
+2014-01-01,2014,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,4821,0.0
+2015-01-01,2015,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,7013,0.0
+2016-01-01,2016,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,7559,0.0
+2017-01-01,2017,1,0.0003717472118959108,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,3,8070,0.03717472118959108
+2018-01-01,2018,1,0.0005923468783319512,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,5,8441,0.059234687833195125
+2019-01-01,2019,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,8538,0.0
+2020-01-01,2020,1,0.0005453752181500873,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,5,9168,0.054537521815008726
+2021-01-01,2021,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,9679,0.0
+2022-01-01,2022,1,0.000194325689856199,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,2,10292,0.0194325689856199
+2023-01-01,2023,1,9.355412105903265e-05,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,1,10689,0.009355412105903266
+2024-01-01,2024,1,0.0,JANIS,Japan,Enterococcus faecalis,teicoplanin,blood,Enterococcus faecalis,TEIC,0,10392,0.0
+2011-01-01,2011,1,0.0,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,0,3492,0.0
+2012-01-01,2012,1,0.0002553626149131767,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,3916,0.02553626149131767
+2013-01-01,2013,1,0.0002212878955521133,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,4519,0.02212878955521133
+2014-01-01,2014,1,0.0,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,0,5132,0.0
+2015-01-01,2015,1,0.0,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,0,7582,0.0
+2016-01-01,2016,1,0.00012100677637947725,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,8264,0.012100677637947725
+2017-01-01,2017,1,0.00022522522522522523,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,2,8880,0.02252252252252252
+2018-01-01,2018,1,0.000107284626113078,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,9321,0.010728462611307799
+2019-01-01,2019,1,0.00010569707219110031,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,9461,0.010569707219110032
+2020-01-01,2020,1,0.00029414648494950483,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,3,10199,0.02941464849495048
+2021-01-01,2021,1,0.0,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,0,10677,0.0
+2022-01-01,2022,1,0.0003568560977785708,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,4,11209,0.03568560977785708
+2023-01-01,2023,1,0.00016883336147222692,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,2,11846,0.01688333614722269
+2024-01-01,2024,1,8.61994655633135e-05,JANIS,Japan,Enterococcus faecalis,vancomycin,blood,Enterococcus faecalis,VCM,1,11601,0.00861994655633135
+2011-01-01,2011,1,0.8865638766519823,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,1610,1816,88.65638766519824
+2012-01-01,2012,1,0.8841880341880342,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,2069,2340,88.41880341880342
+2013-01-01,2013,1,0.8834264432029795,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,2372,2685,88.34264432029795
+2014-01-01,2014,1,0.871870882740448,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,2647,3036,87.1870882740448
+2015-01-01,2015,1,0.8752533213240261,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,3887,4441,87.52533213240261
+2016-01-01,2016,1,0.8814558763725091,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,4335,4918,88.14558763725091
+2017-01-01,2017,1,0.8817204301075269,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,4838,5487,88.17204301075269
+2018-01-01,2018,1,0.885778859527121,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5095,5752,88.5778859527121
+2019-01-01,2019,1,0.8821958952110796,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5287,5993,88.21958952110795
+2020-01-01,2020,1,0.8789685737308622,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5454,6205,87.89685737308622
+2021-01-01,2021,1,0.8712002507051081,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5560,6382,87.1200250705108
+2022-01-01,2022,1,0.8711021920345786,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5643,6478,87.11021920345786
+2023-01-01,2023,1,0.8665987780040734,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5957,6874,86.65987780040734
+2024-01-01,2024,1,0.87087220494595,JANIS,Japan,Enterococcus faecium,ampicillin,blood,Enterococcus faecium,AMP,5881,6753,87.087220494595
+2011-01-01,2011,1,0.8686987104337632,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,1482,1706,86.86987104337632
+2012-01-01,2012,1,0.8693078324225865,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,1909,2196,86.93078324225864
+2013-01-01,2013,1,0.8497267759562842,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,2177,2562,84.97267759562843
+2014-01-01,2014,1,0.8322851153039832,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,2382,2862,83.22851153039832
+2015-01-01,2015,1,0.8304440750415578,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,3497,4211,83.04440750415579
+2016-01-01,2016,1,0.8214897260273972,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,3838,4672,82.14897260273972
+2017-01-01,2017,1,0.8101780185758514,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4187,5168,81.01780185758514
+2018-01-01,2018,1,0.8090033345683586,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4367,5398,80.90033345683587
+2019-01-01,2019,1,0.8160981772243278,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4522,5541,81.60981772243278
+2020-01-01,2020,1,0.8273155416012559,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4743,5733,82.73155416012558
+2021-01-01,2021,1,0.786425797737633,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4658,5923,78.6425797737633
+2022-01-01,2022,1,0.7680172700099634,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,4625,6022,76.80172700099635
+2023-01-01,2023,1,0.8004111972165111,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,5061,6323,80.04111972165111
+2024-01-01,2024,1,0.812996272889321,JANIS,Japan,Enterococcus faecium,erythromycin,blood,Enterococcus faecium,EM,5017,6171,81.2996272889321
+2011-01-01,2011,1,0.8569826135726304,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,1528,1783,85.69826135726304
+2012-01-01,2012,1,0.8673336233144846,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,1994,2299,86.73336233144846
+2013-01-01,2013,1,0.8639300646142152,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,2273,2631,86.39300646142152
+2014-01-01,2014,1,0.8557465453319851,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,2539,2967,85.57465453319851
+2015-01-01,2015,1,0.861345496009122,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,3777,4385,86.13454960091221
+2016-01-01,2016,1,0.8708671241422333,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,4188,4809,87.08671241422333
+2017-01-01,2017,1,0.8704720087815587,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,4758,5466,87.04720087815588
+2018-01-01,2018,1,0.8733499821619694,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,4896,5606,87.33499821619694
+2019-01-01,2019,1,0.8743770407286475,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5088,5819,87.43770407286475
+2020-01-01,2020,1,0.8687908496732026,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5317,6120,86.87908496732027
+2021-01-01,2021,1,0.8578431372549019,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5425,6324,85.7843137254902
+2022-01-01,2022,1,0.8572769953051643,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5478,6390,85.72769953051643
+2023-01-01,2023,1,0.8519775678866588,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5773,6776,85.19775678866588
+2024-01-01,2024,1,0.8537065052950076,JANIS,Japan,Enterococcus faecium,levofloxacin,blood,Enterococcus faecium,LVX,5643,6610,85.37065052950076
+2011-01-01,2011,1,0.0008620689655172414,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,1,1160,0.08620689655172414
+2012-01-01,2012,1,0.0025173064820641915,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,4,1589,0.25173064820641916
+2013-01-01,2013,1,0.0016251354279523294,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,3,1846,0.16251354279523295
+2014-01-01,2014,1,0.0013175230566534915,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,3,2277,0.13175230566534915
+2015-01-01,2015,1,0.0,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,0,3513,0.0
+2016-01-01,2016,1,0.0010232796111537478,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,4,3909,0.10232796111537479
+2017-01-01,2017,1,0.0,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,0,4500,0.0
+2018-01-01,2018,1,0.0008401596303297626,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,4,4761,0.08401596303297626
+2019-01-01,2019,1,0.0011829652996845426,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,6,5072,0.11829652996845426
+2020-01-01,2020,1,0.0007684918347742555,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,4,5205,0.07684918347742556
+2021-01-01,2021,1,0.0018552875695732839,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,10,5390,0.1855287569573284
+2022-01-01,2022,1,0.0010905125408942203,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,6,5502,0.10905125408942204
+2023-01-01,2023,1,0.000505050505050505,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,3,5940,0.050505050505050504
+2024-01-01,2024,1,0.0006778512116590408,JANIS,Japan,Enterococcus faecium,linezolid,blood,Enterococcus faecium,LZD,4,5901,0.06778512116590409
+2011-01-01,2011,1,0.2888182299947006,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,545,1887,28.881822999470057
+2012-01-01,2012,1,0.2910097997443545,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,683,2347,29.100979974435447
+2013-01-01,2013,1,0.29334787350054525,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,807,2751,29.334787350054526
+2014-01-01,2014,1,0.31160572337042924,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,980,3145,31.160572337042925
+2015-01-01,2015,1,0.358570820927265,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,1686,4702,35.8570820927265
+2016-01-01,2016,1,0.34635913076629815,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,1817,5246,34.63591307662981
+2017-01-01,2017,1,0.3580567081604426,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2071,5784,35.80567081604426
+2018-01-01,2018,1,0.380249343832021,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2318,6096,38.0249343832021
+2019-01-01,2019,1,0.32534962224722713,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2024,6221,32.53496222472271
+2020-01-01,2020,1,0.3180841264967762,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2072,6514,31.80841264967762
+2021-01-01,2021,1,0.30436733472928507,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2035,6686,30.436733472928506
+2022-01-01,2022,1,0.3227648384673178,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2148,6655,32.27648384673178
+2023-01-01,2023,1,0.29152199074074076,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,2015,6912,29.152199074074076
+2024-01-01,2024,1,0.26380277531739005,JANIS,Japan,Enterococcus faecium,minocycline,blood,Enterococcus faecium,MNO,1787,6774,26.380277531739004
+2011-01-01,2011,1,0.890920170627666,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,1462,1641,89.0920170627666
+2012-01-01,2012,1,0.8919308357348703,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,1857,2082,89.19308357348703
+2013-01-01,2013,1,0.8920922570016474,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,2166,2428,89.20922570016474
+2014-01-01,2014,1,0.8769703960015379,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,2281,2601,87.69703960015379
+2015-01-01,2015,1,0.8830098378090934,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,3321,3761,88.30098378090933
+2016-01-01,2016,1,0.8904602109300096,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,3715,4172,89.04602109300096
+2017-01-01,2017,1,0.888961321164711,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,4091,4602,88.89613211647111
+2018-01-01,2018,1,0.8919305413687436,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,4366,4895,89.19305413687437
+2019-01-01,2019,1,0.884228836490143,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,4575,5174,88.42288364901431
+2020-01-01,2020,1,0.8814257567615977,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,4921,5583,88.14257567615978
+2021-01-01,2021,1,0.8759061097687263,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,5075,5794,87.59061097687263
+2022-01-01,2022,1,0.8750636564250551,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,5155,5891,87.50636564250551
+2023-01-01,2023,1,0.8697532842037808,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,5429,6242,86.97532842037809
+2024-01-01,2024,1,0.8715157512782451,JANIS,Japan,Enterococcus faecium,penicillin,blood,Enterococcus faecium,PEN,5284,6063,87.15157512782451
+2011-01-01,2011,1,0.000585480093676815,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,1,1708,0.0585480093676815
+2012-01-01,2012,1,0.001374885426214482,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,3,2182,0.13748854262144822
+2013-01-01,2013,1,0.0003968253968253968,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,1,2520,0.03968253968253968
+2014-01-01,2014,1,0.0,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,0,2931,0.0
+2015-01-01,2015,1,0.0007027406886858749,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,3,4269,0.07027406886858749
+2016-01-01,2016,1,0.0008447729672650475,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,4,4735,0.08447729672650475
+2017-01-01,2017,1,0.0011337868480725624,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,6,5292,0.11337868480725624
+2018-01-01,2018,1,0.0030965391621129326,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,17,5490,0.30965391621129323
+2019-01-01,2019,1,0.003138622493461203,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,18,5735,0.3138622493461203
+2020-01-01,2020,1,0.0023462376403552876,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,14,5967,0.23462376403552876
+2021-01-01,2021,1,0.0017950391644908617,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,11,6128,0.17950391644908617
+2022-01-01,2022,1,0.002728294013801958,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,17,6231,0.2728294013801958
+2023-01-01,2023,1,0.0013576708402473978,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,9,6629,0.13576708402473978
+2024-01-01,2024,1,0.003075503613716746,JANIS,Japan,Enterococcus faecium,teicoplanin,blood,Enterococcus faecium,TEIC,20,6503,0.30755036137167463
+2011-01-01,2011,1,0.0021287919105907396,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,4,1879,0.21287919105907396
+2012-01-01,2012,1,0.0016549441456350847,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,4,2417,0.16549441456350847
+2013-01-01,2013,1,0.0010744985673352436,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,3,2792,0.10744985673352436
+2014-01-01,2014,1,0.001913265306122449,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,6,3136,0.1913265306122449
+2015-01-01,2015,1,0.0006482281763180639,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,3,4628,0.06482281763180639
+2016-01-01,2016,1,0.0023179447556499902,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,12,5177,0.23179447556499902
+2017-01-01,2017,1,0.0022437003797031413,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,13,5794,0.22437003797031413
+2018-01-01,2018,1,0.004280540006585446,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,26,6074,0.4280540006585446
+2019-01-01,2019,1,0.0043206913106096975,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,27,6249,0.4320691310609697
+2020-01-01,2020,1,0.004578754578754579,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,30,6552,0.4578754578754579
+2021-01-01,2021,1,0.00491876583693546,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,33,6709,0.491876583693546
+2022-01-01,2022,1,0.006015258215962441,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,41,6816,0.6015258215962441
+2023-01-01,2023,1,0.002184002184002184,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,16,7326,0.21840021840021842
+2024-01-01,2024,1,0.005061867266591676,JANIS,Japan,Enterococcus faecium,vancomycin,blood,Enterococcus faecium,VCM,36,7112,0.5061867266591676
+2011-01-01,2011,1,0.0010935601458080195,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,18,16460,0.10935601458080195
+2012-01-01,2012,1,0.0007411433371213993,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,15,20239,0.07411433371213992
+2013-01-01,2013,1,0.0007823807847279271,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,20,25563,0.07823807847279271
+2014-01-01,2014,1,0.0005081946385465633,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,16,31484,0.05081946385465633
+2015-01-01,2015,1,0.0008770705842486096,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,44,50167,0.08770705842486097
+2016-01-01,2016,1,0.0009504251455338505,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,56,58921,0.09504251455338504
+2017-01-01,2017,1,0.0005841211282760741,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,38,65055,0.05841211282760741
+2018-01-01,2018,1,0.0008526790626031467,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,62,72712,0.08526790626031466
+2019-01-01,2019,1,0.0006009999616383003,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,47,78203,0.06009999616383003
+2020-01-01,2020,1,0.00042526047203912394,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,36,84654,0.04252604720391239
+2021-01-01,2021,1,0.0005114566284779051,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,45,87984,0.05114566284779051
+2022-01-01,2022,1,0.00042278255967738437,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,39,92246,0.04227825596773844
+2023-01-01,2023,1,0.0004487048745665919,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,44,98060,0.04487048745665919
+2024-01-01,2024,1,0.0005581999573738214,JANIS,Japan,Escherichia coli,amikacin,blood,ESCCOL,AMK,55,98531,0.05581999573738214
+2011-01-01,2011,1,0.06163921795242223,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,640,10383,6.1639217952422225
+2012-01-01,2012,1,0.05576523145652006,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,724,12983,5.576523145652006
+2013-01-01,2013,1,0.05711786867599569,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,849,14864,5.711786867599569
+2014-01-01,2014,1,0.051153079624181454,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,539,10537,5.115307962418146
+2015-01-01,2015,1,0.060889645114244044,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,501,8228,6.088964511424404
+2016-01-01,2016,1,0.057662337662337665,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,555,9625,5.766233766233767
+2017-01-01,2017,1,0.04859780526040759,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,558,11482,4.859780526040759
+2018-01-01,2018,1,0.05571565802113353,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,870,15615,5.571565802113352
+2019-01-01,2019,1,0.041091475533114895,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,765,18617,4.109147553311489
+2020-01-01,2020,1,0.0394110582269472,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,886,22481,3.94110582269472
+2021-01-01,2021,1,0.039405323315482375,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,986,25022,3.9405323315482375
+2022-01-01,2022,1,0.04067796610169491,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,1080,26550,4.067796610169491
+2023-01-01,2023,1,0.04105042926195801,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,1138,27722,4.105042926195801
+2024-01-01,2024,1,0.04551168293404318,JANIS,Japan,Escherichia coli,amoxicillin-clavulanate,blood,ESCCOL,CVA/AMPC,1231,27048,4.551168293404318
+2011-01-01,2011,1,0.3711694809255785,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,5935,15990,37.11694809255785
+2012-01-01,2012,1,0.3787110061787311,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,7539,19907,37.87110061787311
+2013-01-01,2013,1,0.3820302060979066,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,9435,24697,38.20302060979066
+2014-01-01,2014,1,0.38830105809542825,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,11670,30054,38.83010580954283
+2015-01-01,2015,1,0.3960777810025291,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,19106,48238,39.60777810025291
+2016-01-01,2016,1,0.4064969895032236,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,22887,56303,40.64969895032236
+2017-01-01,2017,1,0.4077802614862583,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,25357,62183,40.77802614862583
+2018-01-01,2018,1,0.41901585613041414,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,29148,69563,41.90158561304141
+2019-01-01,2019,1,0.42288358732945025,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,31800,75198,42.28835873294503
+2020-01-01,2020,1,0.40951137497382584,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,33247,81187,40.95113749738258
+2021-01-01,2021,1,0.39877141169521557,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,33756,84650,39.87714116952156
+2022-01-01,2022,1,0.39590386107768266,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,35201,88913,39.59038610776827
+2023-01-01,2023,1,0.40843932111106385,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,38408,94036,40.84393211110638
+2024-01-01,2024,1,0.41679654404150496,JANIS,Japan,Escherichia coli,ampicillin,blood,ESCCOL,AMP,39847,95603,41.6796544041505
+2011-01-01,2011,1,0.14386376981796828,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,490,3406,14.386376981796827
+2012-01-01,2012,1,0.1437376183138895,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,653,4543,14.37376183138895
+2013-01-01,2013,1,0.14251812788398155,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,1081,7585,14.251812788398155
+2014-01-01,2014,1,0.16894264533749512,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,3031,17941,16.89426453374951
+2015-01-01,2015,1,0.18231931919217578,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,7177,39365,18.23193191921758
+2016-01-01,2016,1,0.18414498880354938,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,8799,47783,18.414498880354937
+2017-01-01,2017,1,0.1750435222103667,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,9351,53421,17.50435222103667
+2018-01-01,2018,1,0.17688107296632957,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,10722,60617,17.688107296632957
+2019-01-01,2019,1,0.17671487055635732,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,12000,67906,17.671487055635733
+2020-01-01,2020,1,0.1664084412982503,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,12459,74870,16.64084412982503
+2021-01-01,2021,1,0.1504981714330021,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,11646,77383,15.04981714330021
+2022-01-01,2022,1,0.14183145874684505,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,11576,81618,14.183145874684506
+2023-01-01,2023,1,0.1433303605554848,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,12375,86339,14.33303605554848
+2024-01-01,2024,1,0.14348447827408767,JANIS,Japan,Escherichia coli,ampicillin-sulbactam,blood,ESCCOL,SBT/ABPC,12743,88811,14.348447827408767
+2011-01-01,2011,1,0.05817963712700555,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,776,13338,5.817963712700555
+2012-01-01,2012,1,0.061049758034495596,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,984,16118,6.10497580344956
+2013-01-01,2013,1,0.06400427018633541,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,1319,20608,6.400427018633541
+2014-01-01,2014,1,0.13272652473516405,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,2581,19446,13.272652473516406
+2015-01-01,2015,1,0.1195211038961039,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,4712,39424,11.95211038961039
+2016-01-01,2016,1,0.12611533112228523,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,5894,46735,12.611533112228523
+2017-01-01,2017,1,0.12934788864800567,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,6742,52123,12.934788864800566
+2018-01-01,2018,1,0.13622608606452274,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,7968,58491,13.622608606452275
+2019-01-01,2019,1,0.15140056022408963,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,9729,64260,15.140056022408963
+2020-01-01,2020,1,0.14031189977926212,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,9789,69766,14.031189977926212
+2021-01-01,2021,1,0.13616025332140153,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,9890,72635,13.616025332140152
+2022-01-01,2022,1,0.13665434719928704,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,10427,76302,13.665434719928705
+2023-01-01,2023,1,0.13710965502496447,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,10902,79513,13.710965502496448
+2024-01-01,2024,1,0.1432728002407946,JANIS,Japan,Escherichia coli,aztreonam,blood,ESCCOL,AZT,11424,79736,14.327280024079462
+2011-01-01,2011,1,0.15351593203942196,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,2539,16539,15.351593203942196
+2012-01-01,2012,1,0.16031052886948083,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,3304,20610,16.031052886948082
+2013-01-01,2013,1,0.1676593782423241,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,4363,26023,16.76593782423241
+2014-01-01,2014,1,0.6428507395786642,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,7171,11155,64.28507395786642
+2015-01-01,2015,1,0.5723935389133628,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,11694,20430,57.23935389133628
+2016-01-01,2016,1,0.5578050285361715,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,14465,25932,55.78050285361715
+2017-01-01,2017,1,0.5476295817309329,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,16091,29383,54.76295817309329
+2018-01-01,2018,1,0.5098012853263062,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,18959,37189,50.98012853263062
+2019-01-01,2019,1,0.4427030670711156,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,21016,47472,44.27030670711156
+2020-01-01,2020,1,0.40353198449014094,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,21959,54417,40.353198449014094
+2021-01-01,2021,1,0.38146836146419394,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,21968,57588,38.146836146419396
+2022-01-01,2022,1,0.3661612515042118,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,22821,62325,36.61612515042118
+2023-01-01,2023,1,0.34279240849778325,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,24510,71501,34.279240849778326
+2024-01-01,2024,1,0.3411972522080471,JANIS,Japan,Escherichia coli,cefazolin,blood,ESCCOL,CEZ,26076,76425,34.11972522080471
+2011-01-01,2011,1,0.055319696384922165,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,430,7773,5.531969638492217
+2012-01-01,2012,1,0.06399594320486815,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,631,9860,6.399594320486815
+2013-01-01,2013,1,0.07258658806190126,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,985,13570,7.258658806190126
+2014-01-01,2014,1,0.08480383758780195,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,1980,23348,8.480383758780196
+2015-01-01,2015,1,0.10242459815784721,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,4537,44296,10.242459815784722
+2016-01-01,2016,1,0.11006164058795638,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,5803,52725,11.006164058795639
+2017-01-01,2017,1,0.11287693561532193,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,6648,58896,11.287693561532192
+2018-01-01,2018,1,0.1175412833038631,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,7844,66734,11.75412833038631
+2019-01-01,2019,1,0.13043419340849957,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,9625,73792,13.043419340849956
+2020-01-01,2020,1,0.12360864103871554,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,9939,80407,12.360864103871554
+2021-01-01,2021,1,0.12134847596366725,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,10140,83561,12.134847596366725
+2022-01-01,2022,1,0.11579390642249866,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,10174,87863,11.579390642249866
+2023-01-01,2023,1,0.11120203190257069,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,10464,94099,11.120203190257069
+2024-01-01,2024,1,0.11313739744521757,JANIS,Japan,Escherichia coli,cefepime,blood,ESCCOL,FEP,10894,96290,11.313739744521758
+2011-01-01,2011,1,0.006070873923478752,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,86,14166,0.6070873923478752
+2012-01-01,2012,1,0.0051744186046511625,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,89,17200,0.5174418604651163
+2013-01-01,2013,1,0.005395601904330084,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,119,22055,0.5395601904330084
+2014-01-01,2014,1,0.004461417660075666,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,125,28018,0.44614176600756655
+2015-01-01,2015,1,0.004478662372837979,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,210,46889,0.4478662372837979
+2016-01-01,2016,1,0.0050549998220070485,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,284,56182,0.5054999822007048
+2017-01-01,2017,1,0.00424105724633077,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,267,62956,0.42410572463307705
+2018-01-01,2018,1,0.004448649870071178,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,315,70808,0.4448649870071178
+2019-01-01,2019,1,0.004513183928409782,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,349,77329,0.4513183928409782
+2020-01-01,2020,1,0.004236838067813013,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,359,84733,0.4236838067813013
+2021-01-01,2021,1,0.0037823024483047583,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,334,88306,0.37823024483047585
+2022-01-01,2022,1,0.003973766678512584,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,369,92859,0.3973766678512584
+2023-01-01,2023,1,0.003426935714717681,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,340,99214,0.3426935714717681
+2024-01-01,2024,1,0.0033705055758363753,JANIS,Japan,Escherichia coli,cefmetazole,blood,ESCCOL,CMZ,337,99985,0.33705055758363756
+2011-01-01,2011,1,0.09701984330380024,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,1325,13657,9.701984330380025
+2012-01-01,2012,1,0.10586233202276862,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,1804,17041,10.586233202276862
+2013-01-01,2013,1,0.113094946925598,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,2312,20443,11.3094946925598
+2014-01-01,2014,1,0.23736814499679468,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,4073,17159,23.73681449967947
+2015-01-01,2015,1,0.1783157725408188,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,6651,37299,17.83157725408188
+2016-01-01,2016,1,0.1823250376565275,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,8110,44481,18.232503765652748
+2017-01-01,2017,1,0.18983957219251338,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,9301,48994,18.983957219251337
+2018-01-01,2018,1,0.19574249995424012,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,10694,54633,19.57424999542401
+2019-01-01,2019,1,0.2071826939327362,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,12259,59170,20.71826939327362
+2020-01-01,2020,1,0.20049685583417437,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,12913,64405,20.049685583417435
+2021-01-01,2021,1,0.19450790389598444,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,12686,65221,19.450790389598442
+2022-01-01,2022,1,0.19656859765363807,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,12935,65804,19.65685976536381
+2023-01-01,2023,1,0.19876893798599443,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,13369,67259,19.876893798599443
+2024-01-01,2024,1,0.20847342607730035,JANIS,Japan,Escherichia coli,cefotaxime,blood,ESCCOL,CTX,13517,64838,20.847342607730035
+2011-01-01,2011,1,0.0327440617216451,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,539,16461,3.27440617216451
+2012-01-01,2012,1,0.033403433266493865,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,683,20447,3.3403433266493865
+2013-01-01,2013,1,0.03626220362622036,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,936,25812,3.626220362622036
+2014-01-01,2014,1,0.06869895472725439,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,2044,29753,6.869895472725439
+2015-01-01,2015,1,0.07705004890772742,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,3781,49072,7.7050048907727415
+2016-01-01,2016,1,0.08188946393644089,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,4731,57773,8.18894639364409
+2017-01-01,2017,1,0.08598465794768612,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,5470,63616,8.598465794768611
+2018-01-01,2018,1,0.09018052977897756,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,6414,71124,9.018052977897757
+2019-01-01,2019,1,0.10185412177593126,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,7894,77503,10.185412177593125
+2020-01-01,2020,1,0.09548967227973096,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,8007,83852,9.548967227973096
+2021-01-01,2021,1,0.08875617319398185,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,7728,87070,8.875617319398184
+2022-01-01,2022,1,0.08815688845187371,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,8069,91530,8.81568884518737
+2023-01-01,2023,1,0.09114469946714769,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,8792,96462,9.114469946714769
+2024-01-01,2024,1,0.09791595701854891,JANIS,Japan,Escherichia coli,ceftazidime,blood,ESCCOL,CAZ,9486,96879,9.791595701854892
+2011-01-01,2011,1,0.08486486486486486,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,157,1850,8.486486486486486
+2012-01-01,2012,1,0.09086918349429324,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,207,2278,9.086918349429324
+2013-01-01,2013,1,0.08717948717948718,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,459,5265,8.717948717948717
+2014-01-01,2014,1,0.14828715709021428,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,2173,14654,14.828715709021429
+2015-01-01,2015,1,0.16897474346534944,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,5747,34011,16.897474346534942
+2016-01-01,2016,1,0.18273750178037318,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,7698,42126,18.273750178037318
+2017-01-01,2017,1,0.18872575058963517,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,8882,47063,18.872575058963516
+2018-01-01,2018,1,0.20069293209265493,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,10137,50510,20.069293209265492
+2019-01-01,2019,1,0.2088477946289301,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,11113,53211,20.88477946289301
+2020-01-01,2020,1,0.20613069334396728,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,11889,57677,20.613069334396727
+2021-01-01,2021,1,0.20576011429313593,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,12674,61596,20.576011429313592
+2022-01-01,2022,1,0.20367218448283653,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,13522,66391,20.36721844828365
+2023-01-01,2023,1,0.20238900780225091,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,14656,72415,20.23890078022509
+2024-01-01,2024,1,0.2170772927724524,JANIS,Japan,Escherichia coli,ceftriaxone,blood,ESCCOL,CRO,16441,75738,21.707729277245242
+2011-01-01,2011,1,0.22915315782648166,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,1767,7711,22.915315782648165
+2012-01-01,2012,1,0.2429789889744123,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,2336,9614,24.297898897441232
+2013-01-01,2013,1,0.2632375189107413,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,3306,12559,26.32375189107413
+2014-01-01,2014,1,0.2724112961622013,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,3762,13810,27.241129616220128
+2015-01-01,2015,1,0.27104194857916103,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,6009,22170,27.104194857916102
+2016-01-01,2016,1,0.28136312113788436,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,7695,27349,28.136312113788435
+2017-01-01,2017,1,0.28674659753726506,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,8849,30860,28.674659753726505
+2018-01-01,2018,1,0.2948206117970547,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,11151,37823,29.48206117970547
+2019-01-01,2019,1,0.30568962001223576,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,13491,44133,30.568962001223575
+2020-01-01,2020,1,0.30169790951025616,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,15370,50945,30.169790951025615
+2021-01-01,2021,1,0.2957990951897332,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,16019,54155,29.57990951897332
+2022-01-01,2022,1,0.29850825597051944,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,16849,56444,29.850825597051944
+2023-01-01,2023,1,0.2932473827717373,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,17423,59414,29.32473827717373
+2024-01-01,2024,1,0.29678042825898987,JANIS,Japan,Escherichia coli,ciprofloxacin,blood,ESCCOL,CIP,17505,58983,29.678042825898988
+2011-01-01,2011,1,0.0015338991716944473,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,15,9779,0.15338991716944472
+2012-01-01,2012,1,0.0021542795592012593,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,26,12069,0.21542795592012592
+2013-01-01,2013,1,0.002527216174183515,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,39,15432,0.2527216174183515
+2014-01-01,2014,1,0.0010718688032584811,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,20,18659,0.10718688032584811
+2015-01-01,2015,1,0.0020035316490084215,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,59,29448,0.20035316490084215
+2016-01-01,2016,1,0.0030461907969889577,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,104,34141,0.3046190796988958
+2017-01-01,2017,1,0.0026891117863769597,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,100,37187,0.268911178637696
+2018-01-01,2018,1,0.0027124990998343697,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,113,41659,0.27124990998343695
+2019-01-01,2019,1,0.0019907980888338346,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,90,45208,0.19907980888338345
+2020-01-01,2020,1,0.0026353421859039838,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,129,48950,0.2635342185903984
+2021-01-01,2021,1,0.0021686933622492447,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,112,51644,0.21686933622492446
+2022-01-01,2022,1,0.0019395238007277832,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,105,54137,0.19395238007277832
+2023-01-01,2023,1,0.0024372282227521393,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,139,57032,0.2437228222752139
+2024-01-01,2024,1,0.002157516225223645,JANIS,Japan,Escherichia coli,fosfomycin,blood,ESCCOL,FOM,123,57010,0.2157516225223645
+2011-01-01,2011,1,0.09094900583328107,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,1450,15943,9.094900583328107
+2012-01-01,2012,1,0.09954568399798082,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,1972,19810,9.954568399798083
+2013-01-01,2013,1,0.10337777050789237,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,2528,24454,10.337777050789237
+2014-01-01,2014,1,0.10090706828683896,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,2948,29215,10.090706828683896
+2015-01-01,2015,1,0.10691659020404597,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,4894,45774,10.691659020404597
+2016-01-01,2016,1,0.10966165413533835,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,5834,53200,10.966165413533835
+2017-01-01,2017,1,0.10430214251488808,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,6095,58436,10.430214251488808
+2018-01-01,2018,1,0.1067351598173516,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,6919,64824,10.67351598173516
+2019-01-01,2019,1,0.1075385184974226,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,7552,70226,10.75385184974226
+2020-01-01,2020,1,0.10169826484499546,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,7719,75901,10.169826484499547
+2021-01-01,2021,1,0.0918918918918919,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,7174,78070,9.18918918918919
+2022-01-01,2022,1,0.08903306209222198,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,7287,81846,8.903306209222198
+2023-01-01,2023,1,0.09085108357696413,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,7831,86196,9.085108357696413
+2024-01-01,2024,1,0.09453047967055275,JANIS,Japan,Escherichia coli,gentamicin,blood,ESCCOL,GEN,8149,86205,9.453047967055275
+2011-01-01,2011,1,0.000584339696143358,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,9,15402,0.05843396961433581
+2012-01-01,2012,1,0.0001608406605189792,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,3,18652,0.01608406605189792
+2013-01-01,2013,1,0.0002567833604382436,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,6,23366,0.02567833604382436
+2014-01-01,2014,1,0.0007294786147585042,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,19,26046,0.07294786147585042
+2015-01-01,2015,1,0.0006681514476614699,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,30,44900,0.06681514476614699
+2016-01-01,2016,1,0.0004124252479238138,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,22,53343,0.04124252479238138
+2017-01-01,2017,1,0.00021998849290960165,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,13,59094,0.021998849290960167
+2018-01-01,2018,1,0.00022806750798236278,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,15,65770,0.02280675079823628
+2019-01-01,2019,1,0.00029621270893575007,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,21,70895,0.029621270893575007
+2020-01-01,2020,1,0.0003383126008431791,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,26,76852,0.03383126008431791
+2021-01-01,2021,1,0.00046471903338441057,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,37,79618,0.046471903338441055
+2022-01-01,2022,1,0.0004017188698309129,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,33,82147,0.040171886983091286
+2023-01-01,2023,1,0.0002465193811189632,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,21,85186,0.02465193811189632
+2024-01-01,2024,1,0.00024017965438147734,JANIS,Japan,Escherichia coli,imipenem,blood,ESCCOL,IPM,20,83271,0.024017965438147736
+2011-01-01,2011,1,0.21795188155459594,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,3533,16210,21.795188155459595
+2012-01-01,2012,1,0.2328936929789766,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,4697,20168,23.28936929789766
+2013-01-01,2013,1,0.245871921182266,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,6239,25375,24.5871921182266
+2014-01-01,2014,1,0.2567340611071636,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,7949,30962,25.673406110716364
+2015-01-01,2015,1,0.2633216726326066,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,12947,49168,26.332167263260658
+2016-01-01,2016,1,0.2701987216329658,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,15514,57417,27.019872163296583
+2017-01-01,2017,1,0.27902565951377023,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,17801,63797,27.902565951377024
+2018-01-01,2018,1,0.2859725843074594,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,20403,71346,28.597258430745942
+2019-01-01,2019,1,0.29881848031231417,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,23116,77358,29.881848031231417
+2020-01-01,2020,1,0.2927458992124119,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,24718,84435,29.27458992124119
+2021-01-01,2021,1,0.2869559258540151,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,25125,87557,28.695592585401506
+2022-01-01,2022,1,0.284679635124739,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,25903,90990,28.467963512473897
+2023-01-01,2023,1,0.2780833831033435,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,26540,95439,27.808338310334353
+2024-01-01,2024,1,0.2795970834913811,JANIS,Japan,Escherichia coli,levofloxacin,blood,ESCCOL,LVX,26536,94908,27.95970834913811
+2011-01-01,2011,1,0.0004710315591144607,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,4,8492,0.047103155911446065
+2012-01-01,2012,1,0.00019024065442785123,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,2,10513,0.019024065442785124
+2013-01-01,2013,1,0.00027172067115005776,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,4,14721,0.027172067115005777
+2014-01-01,2014,1,0.0009015913086597846,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,20,22183,0.09015913086597846
+2015-01-01,2015,1,0.0006134579992807733,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,29,47273,0.06134579992807734
+2016-01-01,2016,1,0.0005812065163507069,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,34,58499,0.058120651635070686
+2017-01-01,2017,1,0.00044862473314563286,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,29,64642,0.044862473314563285
+2018-01-01,2018,1,0.0003165515153183407,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,23,72658,0.03165515153183407
+2019-01-01,2019,1,0.00040626150545279116,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,32,78767,0.04062615054527911
+2020-01-01,2020,1,0.0003163592904178286,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,27,85346,0.03163592904178286
+2021-01-01,2021,1,0.0004945820781439683,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,44,88964,0.04945820781439683
+2022-01-01,2022,1,0.00036354693497856144,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,34,93523,0.036354693497856146
+2023-01-01,2023,1,0.0002605810958437315,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,26,99777,0.02605810958437315
+2024-01-01,2024,1,0.00028868935034941367,JANIS,Japan,Escherichia coli,meropenem,blood,ESCCOL,MEM,29,100454,0.028868935034941368
+2011-01-01,2011,1,0.3122895107464332,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,5100,16331,31.22895107464332
+2012-01-01,2012,1,0.32396112268174154,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,6533,20166,32.39611226817416
+2013-01-01,2013,1,0.3269420055907713,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,8304,25399,32.69420055907713
+2014-01-01,2014,1,0.33219778080591783,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,10239,30822,33.21977808059178
+2015-01-01,2015,1,0.33993305029392556,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,16654,48992,33.99330502939256
+2016-01-01,2016,1,0.35020553194454124,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,20106,57412,35.02055319445412
+2017-01-01,2017,1,0.3521135646687697,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,22324,63400,35.21135646687697
+2018-01-01,2018,1,0.3643038565965025,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,24957,68506,36.43038565965025
+2019-01-01,2019,1,0.3708174114130205,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,26298,70919,37.08174114130205
+2020-01-01,2020,1,0.35441297045676956,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,26800,75618,35.441297045676954
+2021-01-01,2021,1,0.3417464499132558,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,26593,77815,34.17464499132558
+2022-01-01,2022,1,0.3400019881703862,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,27362,80476,34.000198817038616
+2023-01-01,2023,1,0.3533461856237951,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,29509,83513,35.33461856237951
+2024-01-01,2024,1,0.36343445683742953,JANIS,Japan,Escherichia coli,piperacillin,blood,ESCCOL,PIPC,29782,81946,36.34344568374296
+2011-01-01,2011,1,0.02002080083203328,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,77,3846,2.002080083203328
+2012-01-01,2012,1,0.014619883040935672,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,75,5130,1.461988304093567
+2013-01-01,2013,1,0.011731291676957273,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,95,8098,1.1731291676957274
+2014-01-01,2014,1,0.009665329738970347,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,147,15209,0.9665329738970347
+2015-01-01,2015,1,0.010346212051020723,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,335,32379,1.0346212051020722
+2016-01-01,2016,1,0.010516982340336444,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,427,40601,1.0516982340336445
+2017-01-01,2017,1,0.00924815146029184,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,424,45847,0.924815146029184
+2018-01-01,2018,1,0.010109647872603234,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,532,52623,1.0109647872603233
+2019-01-01,2019,1,0.01188943838493327,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,702,59044,1.188943838493327
+2020-01-01,2020,1,0.010910924677944345,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,714,65439,1.0910924677944345
+2021-01-01,2021,1,0.010346404481536526,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,724,69976,1.0346404481536526
+2022-01-01,2022,1,0.011019575640380388,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,832,75502,1.1019575640380388
+2023-01-01,2023,1,0.009777723794485606,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,805,82330,0.9777723794485607
+2024-01-01,2024,1,0.010071857698197668,JANIS,Japan,Escherichia coli,piperacillin with tazobactam,blood,ESCCOL,TAZ/PIPC,855,84890,1.0071857698197668
+2011-01-01,2011,1,0.06204630549400168,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,812,13087,6.204630549400168
+2012-01-01,2012,1,0.05487731897067624,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,917,16710,5.487731897067624
+2013-01-01,2013,1,0.05441348402182385,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,1117,20528,5.441348402182386
+2014-01-01,2014,1,0.18323828415571536,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,4434,24198,18.323828415571537
+2015-01-01,2015,1,0.18652904037096224,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,7120,38171,18.652904037096224
+2016-01-01,2016,1,0.19518527797389937,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,8570,43907,19.518527797389936
+2017-01-01,2017,1,0.19238836674599652,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,9539,49582,19.238836674599654
+2018-01-01,2018,1,0.19069808180783043,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,10886,57085,19.069808180783042
+2019-01-01,2019,1,0.19547496790757382,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,12182,62320,19.547496790757382
+2020-01-01,2020,1,0.18558945541204508,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,12616,67978,18.55894554120451
+2021-01-01,2021,1,0.17507247962365297,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,12802,73124,17.507247962365298
+2022-01-01,2022,1,0.17126457353241972,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,13397,78224,17.12645735324197
+2023-01-01,2023,1,0.172804254849818,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,14101,81601,17.2804254849818
+2024-01-01,2024,1,0.18107541128408966,JANIS,Japan,Escherichia coli,trimethoprim-sulfamethoxazole,blood,ESCCOL,J01EE,14760,81513,18.107541128408965
+2011-01-01,2011,1,0.0009157509157509158,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,6,6552,0.09157509157509157
+2012-01-01,2012,1,0.001277139208173691,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,10,7830,0.1277139208173691
+2013-01-01,2013,1,0.001033805437816603,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,10,9673,0.10338054378166028
+2014-01-01,2014,1,0.0005114217524718718,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,6,11732,0.05114217524718718
+2015-01-01,2015,1,0.0003436426116838488,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,6,17460,0.03436426116838488
+2016-01-01,2016,1,0.0006441064262002675,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,13,20183,0.06441064262002676
+2017-01-01,2017,1,0.0005932280733777494,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,13,21914,0.05932280733777494
+2018-01-01,2018,1,0.0005308289097590853,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,13,24490,0.053082890975908535
+2019-01-01,2019,1,0.0002708978328173375,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,7,25840,0.027089783281733747
+2020-01-01,2020,1,0.0003671206725650721,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,10,27239,0.03671206725650721
+2021-01-01,2021,1,0.00024484085344526056,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,7,28590,0.024484085344526056
+2022-01-01,2022,1,0.0016721332561579522,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,52,31098,0.16721332561579522
+2023-01-01,2023,1,0.0005242311276794035,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,18,34336,0.05242311276794035
+2024-01-01,2024,1,8.477210432620305e-05,JANIS,Japan,Klebsiella pneumoniae,amikacin,blood,KLEPNE,AMK,3,35389,0.008477210432620305
+2011-01-01,2011,1,0.024079320113314446,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,102,4236,2.4079320113314444
+2012-01-01,2012,1,0.019074675324675324,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,94,4928,1.9074675324675323
+2013-01-01,2013,1,0.018118594436310396,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,99,5464,1.8118594436310396
+2014-01-01,2014,1,0.01888276947285602,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,72,3813,1.8882769472856018
+2015-01-01,2015,1,0.025438294946717083,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,74,2909,2.543829494671708
+2016-01-01,2016,1,0.026418492945061545,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,88,3331,2.6418492945061542
+2017-01-01,2017,1,0.02583507306889353,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,99,3832,2.583507306889353
+2018-01-01,2018,1,0.02723267921505807,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,136,4994,2.723267921505807
+2019-01-01,2019,1,0.019184265677897792,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,119,6203,1.9184265677897792
+2020-01-01,2020,1,0.019288645690834473,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,141,7310,1.9288645690834474
+2021-01-01,2021,1,0.024011120940224947,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,190,7913,2.4011120940224946
+2022-01-01,2022,1,0.028699050809603572,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,257,8955,2.8699050809603572
+2023-01-01,2023,1,0.026908177154224687,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,257,9551,2.690817715422469
+2024-01-01,2024,1,0.028739249003566184,JANIS,Japan,Klebsiella pneumoniae,amoxicillin-clavulanate,blood,KLEPNE,CVA/AMPC,274,9534,2.8739249003566183
+2011-01-01,2011,1,0.7061655536574002,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,4547,6439,70.61655536574001
+2012-01-01,2012,1,0.7239576525944321,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,5539,7651,72.39576525944321
+2013-01-01,2013,1,0.7273993144815767,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,6791,9336,72.73993144815766
+2014-01-01,2014,1,0.7162007231678279,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,8121,11339,71.6200723167828
+2015-01-01,2015,1,0.7174992696465089,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,12280,17115,71.7499269646509
+2016-01-01,2016,1,0.7176392708015072,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,14093,19638,71.76392708015072
+2017-01-01,2017,1,0.7263690922730682,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,15492,21328,72.63690922730682
+2018-01-01,2018,1,0.7499789154086194,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,17785,23714,74.99789154086194
+2019-01-01,2019,1,0.7557730723132241,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,18917,25030,75.57730723132241
+2020-01-01,2020,1,0.7465966993687733,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,19634,26298,74.65966993687732
+2021-01-01,2021,1,0.7161957618567104,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,19873,27748,71.61957618567104
+2022-01-01,2022,1,0.7158777153121986,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,21520,30061,71.58777153121986
+2023-01-01,2023,1,0.7562981051590368,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,24467,32351,75.62981051590369
+2024-01-01,2024,1,0.7566200183437379,JANIS,Japan,Klebsiella pneumoniae,ampicillin,blood,KLEPNE,AMP,25573,33799,75.6620018343738
+2011-01-01,2011,1,0.07241659886086249,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,89,1229,7.241659886086249
+2012-01-01,2012,1,0.07368421052631578,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,126,1710,7.368421052631578
+2013-01-01,2013,1,0.07081174438687392,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,205,2895,7.081174438687392
+2014-01-01,2014,1,0.0700238379022646,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,470,6712,7.00238379022646
+2015-01-01,2015,1,0.07445255474452554,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,1020,13700,7.445255474452554
+2016-01-01,2016,1,0.07927950006126701,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,1294,16322,7.927950006126701
+2017-01-01,2017,1,0.08396094839609484,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,1505,17925,8.396094839609484
+2018-01-01,2018,1,0.08651040653569345,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,1779,20564,8.651040653569344
+2019-01-01,2019,1,0.0887006409394469,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,1979,22311,8.870064093944691
+2020-01-01,2020,1,0.09393159555039017,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,2263,24092,9.393159555039016
+2021-01-01,2021,1,0.09558794329057622,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,2407,25181,9.558794329057623
+2022-01-01,2022,1,0.10097208010524777,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,2763,27364,10.097208010524778
+2023-01-01,2023,1,0.10329424902289223,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,3145,30447,10.329424902289224
+2024-01-01,2024,1,0.11073397066608538,JANIS,Japan,Klebsiella pneumoniae,ampicillin-sulbactam,blood,KLEPNE,SBT/ABPC,3556,32113,11.073397066608539
+2011-01-01,2011,1,0.0254801293021487,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,134,5259,2.54801293021487
+2012-01-01,2012,1,0.020118733509234828,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,122,6064,2.0118733509234827
+2013-01-01,2013,1,0.022523108970186174,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,173,7681,2.2523108970186176
+2014-01-01,2014,1,0.03952180028129395,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,281,7110,3.952180028129395
+2015-01-01,2015,1,0.03235337568326193,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,438,13538,3.235337568326193
+2016-01-01,2016,1,0.03519098309329994,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,562,15970,3.519098309329994
+2017-01-01,2017,1,0.03802519810729149,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,667,17541,3.802519810729149
+2018-01-01,2018,1,0.04133197763091002,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,813,19670,4.133197763091002
+2019-01-01,2019,1,0.04648294834700944,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,980,21083,4.648294834700944
+2020-01-01,2020,1,0.04937940887579248,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,1106,22398,4.937940887579248
+2021-01-01,2021,1,0.05772257433323408,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,1357,23509,5.772257433323408
+2022-01-01,2022,1,0.061175639617014596,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,1559,25484,6.117563961701459
+2023-01-01,2023,1,0.0638336151991652,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,1774,27791,6.3833615199165195
+2024-01-01,2024,1,0.07102074919927587,JANIS,Japan,Klebsiella pneumoniae,aztreonam,blood,KLEPNE,AZT,2040,28724,7.1020749199275865
+2011-01-01,2011,1,0.05472560975609756,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,359,6560,5.472560975609756
+2012-01-01,2012,1,0.051687097181852645,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,409,7913,5.168709718185265
+2013-01-01,2013,1,0.05878744504651876,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,575,9781,5.878744504651876
+2014-01-01,2014,1,0.3319132455460883,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,857,2582,33.19132455460883
+2015-01-01,2015,1,0.26167837949565936,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,1266,4838,26.167837949565936
+2016-01-01,2016,1,0.25974651050858333,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,1619,6233,25.974651050858334
+2017-01-01,2017,1,0.24667524667524668,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,1725,6993,24.667524667524667
+2018-01-01,2018,1,0.2172105591353149,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,2090,9622,21.72105591353149
+2019-01-01,2019,1,0.1725195522159178,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,2250,13042,17.251955221591782
+2020-01-01,2020,1,0.1626042966953551,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,2475,15221,16.260429669535508
+2021-01-01,2021,1,0.1679246422317493,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,2781,16561,16.79246422317493
+2022-01-01,2022,1,0.1652366163078381,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,3139,18997,16.52366163078381
+2023-01-01,2023,1,0.15326911601738982,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,3596,23462,15.326911601738983
+2024-01-01,2024,1,0.1565287294721127,JANIS,Japan,Klebsiella pneumoniae,cefazolin,blood,KLEPNE,CEZ,4089,26123,15.652872947211268
+2011-01-01,2011,1,0.019151846785225718,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,56,2924,1.915184678522572
+2012-01-01,2012,1,0.021384656508954825,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,80,3741,2.1384656508954825
+2013-01-01,2013,1,0.019131127939418093,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,96,5018,1.9131127939418093
+2014-01-01,2014,1,0.019564714054179207,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,169,8638,1.9564714054179206
+2015-01-01,2015,1,0.024162120031176928,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,372,15396,2.4162120031176926
+2016-01-01,2016,1,0.027937279151943464,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,506,18112,2.793727915194346
+2017-01-01,2017,1,0.02995705986360192,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,593,19795,2.995705986360192
+2018-01-01,2018,1,0.035922330097087375,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,814,22660,3.5922330097087376
+2019-01-01,2019,1,0.03723404255319149,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,910,24440,3.723404255319149
+2020-01-01,2020,1,0.043300401358443964,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,1122,25912,4.3300401358443965
+2021-01-01,2021,1,0.049850998859497446,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,1355,27181,4.985099885949745
+2022-01-01,2022,1,0.0502289253972529,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,1492,29704,5.02289253972529
+2023-01-01,2023,1,0.05023382108915372,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,1665,33145,5.023382108915372
+2024-01-01,2024,1,0.05339567639333853,JANIS,Japan,Klebsiella pneumoniae,cefepime,blood,KLEPNE,FEP,1850,34647,5.339567639333853
+2011-01-01,2011,1,0.011655011655011656,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,65,5577,1.1655011655011656
+2012-01-01,2012,1,0.008575803981623277,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,56,6530,0.8575803981623278
+2013-01-01,2013,1,0.010259505129752565,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,85,8285,1.0259505129752564
+2014-01-01,2014,1,0.008337326305701965,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,87,10435,0.8337326305701964
+2015-01-01,2015,1,0.008333333333333333,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,136,16320,0.8333333333333334
+2016-01-01,2016,1,0.009625834497748797,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,186,19323,0.9625834497748796
+2017-01-01,2017,1,0.007406359090480234,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,157,21198,0.7406359090480233
+2018-01-01,2018,1,0.008849188128730642,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,212,23957,0.8849188128730642
+2019-01-01,2019,1,0.008254117278879631,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,211,25563,0.8254117278879631
+2020-01-01,2020,1,0.008879307194796652,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,243,27367,0.8879307194796652
+2021-01-01,2021,1,0.00872375921034339,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,251,28772,0.8723759210343389
+2022-01-01,2022,1,0.009011590880142657,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,283,31404,0.9011590880142657
+2023-01-01,2023,1,0.007977880821404914,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,277,34721,0.7977880821404915
+2024-01-01,2024,1,0.007018130169604813,JANIS,Japan,Klebsiella pneumoniae,cefmetazole,blood,KLEPNE,CMZ,252,35907,0.7018130169604813
+2011-01-01,2011,1,0.03424783649419996,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,186,5431,3.424783649419996
+2012-01-01,2012,1,0.031627196333078686,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,207,6545,3.1627196333078684
+2013-01-01,2013,1,0.03439641539272536,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,261,7588,3.439641539272536
+2014-01-01,2014,1,0.0870067690275714,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,527,6057,8.70067690275714
+2015-01-01,2015,1,0.05567980257576926,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,722,12967,5.5679802575769255
+2016-01-01,2016,1,0.05331861280685803,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,821,15398,5.3318612806858035
+2017-01-01,2017,1,0.05525630938691521,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,913,16523,5.525630938691521
+2018-01-01,2018,1,0.057885410513880686,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1078,18623,5.788541051388068
+2019-01-01,2019,1,0.0573238799215568,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1140,19887,5.7323879921556795
+2020-01-01,2020,1,0.06472925743285297,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1352,20887,6.472925743285297
+2021-01-01,2021,1,0.06893464637421665,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1463,21223,6.893464637421665
+2022-01-01,2022,1,0.07323805707671074,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1645,22461,7.323805707671075
+2023-01-01,2023,1,0.07783088701831564,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,1840,23641,7.783088701831565
+2024-01-01,2024,1,0.08690062990101556,JANIS,Japan,Klebsiella pneumoniae,cefotaxime,blood,KLEPNE,CTX,2028,23337,8.690062990101556
+2011-01-01,2011,1,0.01922490082392432,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,126,6554,1.922490082392432
+2012-01-01,2012,1,0.015638906547997457,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,123,7865,1.5638906547997458
+2013-01-01,2013,1,0.015625,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,151,9664,1.5625
+2014-01-01,2014,1,0.024003664681630784,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,262,10915,2.4003664681630785
+2015-01-01,2015,1,0.022731298340910432,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,385,16937,2.2731298340910433
+2016-01-01,2016,1,0.02637608839553949,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,518,19639,2.6376088395539488
+2017-01-01,2017,1,0.029229323308270678,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,622,21280,2.922932330827068
+2018-01-01,2018,1,0.032545248393734516,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,775,23813,3.2545248393734516
+2019-01-01,2019,1,0.03776399466122321,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,962,25474,3.776399466122321
+2020-01-01,2020,1,0.0433111989853018,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,1161,26806,4.33111989853018
+2021-01-01,2021,1,0.050202659460996946,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,1412,28126,5.020265946099695
+2022-01-01,2022,1,0.05627621184043694,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,1731,30759,5.6276211840436945
+2023-01-01,2023,1,0.05821826675734011,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,1969,33821,5.821826675734012
+2024-01-01,2024,1,0.06494214923487698,JANIS,Japan,Klebsiella pneumoniae,ceftazidime,blood,KLEPNE,CAZ,2262,34831,6.494214923487698
+2011-01-01,2011,1,0.025796661608497723,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,17,659,2.579666160849772
+2012-01-01,2012,1,0.04423748544819558,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,38,859,4.423748544819558
+2013-01-01,2013,1,0.020972354623450904,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,44,2098,2.0972354623450906
+2014-01-01,2014,1,0.04775583482944345,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,266,5570,4.775583482944345
+2015-01-01,2015,1,0.04884056739998301,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,575,11773,4.884056739998301
+2016-01-01,2016,1,0.05354428630648059,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,775,14474,5.354428630648059
+2017-01-01,2017,1,0.05446198352304887,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,866,15901,5.4461983523048865
+2018-01-01,2018,1,0.06146295863519514,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,1052,17116,6.146295863519514
+2019-01-01,2019,1,0.06488483519020954,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,1124,17323,6.488483519020955
+2020-01-01,2020,1,0.06987792078660995,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,1265,18103,6.987792078660996
+2021-01-01,2021,1,0.08332490646172515,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,1648,19778,8.332490646172515
+2022-01-01,2022,1,0.08163912157573014,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,1803,22085,8.163912157573014
+2023-01-01,2023,1,0.08724169267849381,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,2208,25309,8.724169267849382
+2024-01-01,2024,1,0.09557848194546795,JANIS,Japan,Klebsiella pneumoniae,ceftriaxone,blood,KLEPNE,CRO,2594,27140,9.557848194546795
+2011-01-01,2011,1,0.035266191929467616,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,104,2949,3.526619192946762
+2012-01-01,2012,1,0.032397408207343416,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,120,3704,3.2397408207343417
+2013-01-01,2013,1,0.02767487470037045,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,127,4589,2.7674874700370453
+2014-01-01,2014,1,0.02501000400160064,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,125,4998,2.5010004001600636
+2015-01-01,2015,1,0.021929824561403508,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,165,7524,2.1929824561403506
+2016-01-01,2016,1,0.03234880450070324,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,299,9243,3.2348804500703237
+2017-01-01,2017,1,0.029029126213592233,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,299,10300,2.9029126213592233
+2018-01-01,2018,1,0.02818920210224558,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,354,12558,2.818920210224558
+2019-01-01,2019,1,0.02889770907318432,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,415,14361,2.889770907318432
+2020-01-01,2020,1,0.037410421474553625,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,616,16466,3.7410421474553623
+2021-01-01,2021,1,0.041836676053100395,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,728,17401,4.183667605310039
+2022-01-01,2022,1,0.046784863720560996,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,884,18895,4.678486372056099
+2023-01-01,2023,1,0.046604787493893504,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,954,20470,4.66047874938935
+2024-01-01,2024,1,0.05082076732200801,JANIS,Japan,Klebsiella pneumoniae,ciprofloxacin,blood,KLEPNE,CIP,1065,20956,5.082076732200801
+2011-01-01,2011,1,0.03534935100800884,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,128,3621,3.5349351008008836
+2012-01-01,2012,1,0.038088125466766244,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,153,4017,3.8088125466766245
+2013-01-01,2013,1,0.04122044857546979,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,204,4949,4.122044857546979
+2014-01-01,2014,1,0.03411941796287005,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,204,5979,3.411941796287005
+2015-01-01,2015,1,0.0344905575031098,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,305,8843,3.44905575031098
+2016-01-01,2016,1,0.03469805527123849,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,339,9770,3.469805527123849
+2017-01-01,2017,1,0.03564430344312774,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,382,10717,3.5644303443127736
+2018-01-01,2018,1,0.037061548643282594,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,448,12088,3.7061548643282594
+2019-01-01,2019,1,0.03224338062362492,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,425,13181,3.2243380623624915
+2020-01-01,2020,1,0.037438566059554784,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,518,13836,3.7438566059554783
+2021-01-01,2021,1,0.03883428414324008,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,565,14549,3.8834284143240083
+2022-01-01,2022,1,0.04062771368316586,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,655,16122,4.062771368316586
+2023-01-01,2023,1,0.04324857773133635,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,745,17226,4.324857773133635
+2024-01-01,2024,1,0.05122248678785063,JANIS,Japan,Klebsiella pneumoniae,fosfomycin,blood,KLEPNE,FOM,882,17219,5.122248678785063
+2011-01-01,2011,1,0.0182626647609973,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,115,6297,1.82626647609973
+2012-01-01,2012,1,0.02178763617272608,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,166,7619,2.1787636172726077
+2013-01-01,2013,1,0.023184601924759404,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,212,9144,2.3184601924759405
+2014-01-01,2014,1,0.021141649048625793,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,230,10879,2.1141649048625792
+2015-01-01,2015,1,0.022038048596722547,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,351,15927,2.2038048596722546
+2016-01-01,2016,1,0.025945710236563828,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,476,18346,2.594571023656383
+2017-01-01,2017,1,0.024516713652839306,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,487,19864,2.4516713652839304
+2018-01-01,2018,1,0.025611812423096205,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,562,21943,2.5611812423096203
+2019-01-01,2019,1,0.024306890512196165,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,569,23409,2.4306890512196166
+2020-01-01,2020,1,0.02345981232150143,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,575,24510,2.3459812321501428
+2021-01-01,2021,1,0.024799559817638737,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,631,25444,2.4799559817638737
+2022-01-01,2022,1,0.02728981421239066,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,755,27666,2.728981421239066
+2023-01-01,2023,1,0.02729865994427491,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,823,30148,2.7298659944274912
+2024-01-01,2024,1,0.02809569996766893,JANIS,Japan,Klebsiella pneumoniae,gentamicin,blood,KLEPNE,GEN,869,30930,2.809569996766893
+2011-01-01,2011,1,0.0013084723585214263,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,8,6114,0.13084723585214264
+2012-01-01,2012,1,0.000980392156862745,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,7,7140,0.09803921568627451
+2013-01-01,2013,1,0.0005658028742786014,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,5,8837,0.056580287427860136
+2014-01-01,2014,1,0.0017464557222108075,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,17,9734,0.17464557222108074
+2015-01-01,2015,1,0.0014657150140198827,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,23,15692,0.14657150140198827
+2016-01-01,2016,1,0.001311618756148213,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,24,18298,0.1311618756148213
+2017-01-01,2017,1,0.0009991507218863967,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,20,20017,0.09991507218863967
+2018-01-01,2018,1,0.001259955901543446,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,28,22223,0.12599559015434458
+2019-01-01,2019,1,0.0013193173596629357,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,31,23497,0.13193173596629357
+2020-01-01,2020,1,0.0007678318852293392,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,19,24745,0.07678318852293392
+2021-01-01,2021,1,0.0023198267862666253,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,60,25864,0.23198267862666253
+2022-01-01,2022,1,0.0013355472133987872,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,37,27704,0.13355472133987872
+2023-01-01,2023,1,0.0011543423643647721,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,34,29454,0.11543423643647721
+2024-01-01,2024,1,0.0006771626883358727,JANIS,Japan,Klebsiella pneumoniae,imipenem,blood,KLEPNE,IPM,20,29535,0.06771626883358726
+2011-01-01,2011,1,0.01914694894146949,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,123,6424,1.914694894146949
+2012-01-01,2012,1,0.016973125884016973,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,132,7777,1.6973125884016973
+2013-01-01,2013,1,0.01766933108960875,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,168,9508,1.766933108960875
+2014-01-01,2014,1,0.016394872242085985,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,188,11467,1.6394872242085985
+2015-01-01,2015,1,0.015996718621821164,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,273,17066,1.5996718621821164
+2016-01-01,2016,1,0.01947290615282663,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,382,19617,1.9472906152826632
+2017-01-01,2017,1,0.018192021699480896,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,389,21383,1.8192021699480896
+2018-01-01,2018,1,0.020278728198280898,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,486,23966,2.0278728198280898
+2019-01-01,2019,1,0.021329345559009876,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,542,25411,2.1329345559009876
+2020-01-01,2020,1,0.02480654596615943,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,670,27009,2.480654596615943
+2021-01-01,2021,1,0.027201246723808175,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,768,28234,2.7201246723808175
+2022-01-01,2022,1,0.03183275534908068,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,973,30566,3.1832755349080677
+2023-01-01,2023,1,0.03189214871124837,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,1074,33676,3.189214871124837
+2024-01-01,2024,1,0.03452670605955278,JANIS,Japan,Klebsiella pneumoniae,levofloxacin,blood,KLEPNE,LVX,1192,34524,3.452670605955278
+2011-01-01,2011,1,0.0009227929867733005,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,3,3251,0.09227929867733005
+2012-01-01,2012,1,0.0017165277096615988,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,7,4078,0.17165277096615988
+2013-01-01,2013,1,0.001081665765278529,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,6,5547,0.1081665765278529
+2014-01-01,2014,1,0.0037317924641868303,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,31,8307,0.37317924641868305
+2015-01-01,2015,1,0.003148271477871284,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,52,16517,0.3148271477871284
+2016-01-01,2016,1,0.0025937749401436553,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,52,20048,0.25937749401436555
+2017-01-01,2017,1,0.0016019772976931528,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,35,21848,0.1601977297693153
+2018-01-01,2018,1,0.002078493703386722,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,51,24537,0.2078493703386722
+2019-01-01,2019,1,0.001837109614206981,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,48,26128,0.1837109614206981
+2020-01-01,2020,1,0.0014882032667876588,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,41,27550,0.14882032667876588
+2021-01-01,2021,1,0.003210549936134222,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,93,28967,0.32105499361342216
+2022-01-01,2022,1,0.001740506329113924,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,55,31600,0.1740506329113924
+2023-01-01,2023,1,0.0016623197959359146,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,58,34891,0.16623197959359146
+2024-01-01,2024,1,0.0012774229380727576,JANIS,Japan,Klebsiella pneumoniae,meropenem,blood,KLEPNE,MEM,46,36010,0.12774229380727575
+2011-01-01,2011,1,0.17581270504026245,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,1179,6706,17.581270504026243
+2012-01-01,2012,1,0.16850863032410282,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,1357,8053,16.85086303241028
+2013-01-01,2013,1,0.1962474645030426,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,1935,9860,19.624746450304258
+2014-01-01,2014,1,0.16871868897002631,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,1987,11777,16.87186889700263
+2015-01-01,2015,1,0.15854144149269014,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,2787,17579,15.854144149269015
+2016-01-01,2016,1,0.1601996935396174,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,3241,20231,16.01996935396174
+2017-01-01,2017,1,0.15817999635634905,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,3473,21956,15.817999635634905
+2018-01-01,2018,1,0.15963868135578912,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,3782,23691,15.963868135578913
+2019-01-01,2019,1,0.1728219498933456,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,4132,23909,17.28219498933456
+2020-01-01,2020,1,0.16359784911194394,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,4016,24548,16.359784911194396
+2021-01-01,2021,1,0.1666862124232829,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,4264,25581,16.668621242328292
+2022-01-01,2022,1,0.18190500679572422,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,4952,27223,18.190500679572423
+2023-01-01,2023,1,0.1813571178733823,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,5185,28590,18.13571178733823
+2024-01-01,2024,1,0.18956887922405163,JANIS,Japan,Klebsiella pneumoniae,piperacillin,blood,KLEPNE,PIPC,5492,28971,18.956887922405162
+2011-01-01,2011,1,0.022712933753943218,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,36,1585,2.271293375394322
+2012-01-01,2012,1,0.01944049312470365,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,41,2109,1.944049312470365
+2013-01-01,2013,1,0.02277831247994867,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,71,3117,2.277831247994867
+2014-01-01,2014,1,0.012131715771230503,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,70,5770,1.2131715771230502
+2015-01-01,2015,1,0.012926073483842409,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,146,11295,1.2926073483842409
+2016-01-01,2016,1,0.013279074748340116,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,186,14007,1.3279074748340116
+2017-01-01,2017,1,0.014152151639344262,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,221,15616,1.4152151639344261
+2018-01-01,2018,1,0.017543859649122806,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,314,17898,1.7543859649122806
+2019-01-01,2019,1,0.017027549049506964,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,335,19674,1.7027549049506965
+2020-01-01,2020,1,0.01640426133685302,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,348,21214,1.640426133685302
+2021-01-01,2021,1,0.019877609478755262,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,458,23041,1.9877609478755263
+2022-01-01,2022,1,0.02165506573859242,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,560,25860,2.165506573859242
+2023-01-01,2023,1,0.01908541846419327,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,553,28975,1.9085418464193271
+2024-01-01,2024,1,0.020933764775804,JANIS,Japan,Klebsiella pneumoniae,piperacillin with tazobactam,blood,KLEPNE,TAZ/PIPC,634,30286,2.0933764775804002
+2011-01-01,2011,1,0.07315668202764977,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,381,5208,7.315668202764977
+2012-01-01,2012,1,0.07692307692307693,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,488,6344,7.6923076923076925
+2013-01-01,2013,1,0.08427184466019418,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,651,7725,8.427184466019417
+2014-01-01,2014,1,0.08020383294560762,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,724,9027,8.020383294560762
+2015-01-01,2015,1,0.08428399879915942,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,1123,13324,8.428399879915942
+2016-01-01,2016,1,0.09259013785790032,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,1397,15088,9.259013785790032
+2017-01-01,2017,1,0.0907356623345654,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,1522,16774,9.073566233456539
+2018-01-01,2018,1,0.09863875425389296,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,1913,19394,9.863875425389296
+2019-01-01,2019,1,0.09704027171276079,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,2000,20610,9.70402717127608
+2020-01-01,2020,1,0.10254071066916025,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,2248,21923,10.254071066916024
+2021-01-01,2021,1,0.10382375284882249,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,2460,23694,10.382375284882249
+2022-01-01,2022,1,0.11200910643141719,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,2952,26355,11.20091064314172
+2023-01-01,2023,1,0.1183981629670865,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,3403,28742,11.83981629670865
+2024-01-01,2024,1,0.12442615703744006,JANIS,Japan,Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,blood,KLEPNE,J01EE,3659,29407,12.442615703744005
+2011-01-01,2011,1,0.021435228331780055,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,69,3219,2.1435228331780056
+2012-01-01,2012,1,0.019241815048822514,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,67,3482,1.9241815048822515
+2013-01-01,2013,1,0.012578616352201259,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,48,3816,1.257861635220126
+2014-01-01,2014,1,0.007874015748031496,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,33,4191,0.7874015748031495
+2015-01-01,2015,1,0.009004584151931892,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,55,6108,0.9004584151931891
+2016-01-01,2016,1,0.007051564565888057,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,48,6807,0.7051564565888057
+2017-01-01,2017,1,0.006115357887421821,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,44,7195,0.6115357887421821
+2018-01-01,2018,1,0.005800922874093606,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,44,7585,0.5800922874093606
+2019-01-01,2019,1,0.005723006486074018,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,45,7863,0.5723006486074018
+2020-01-01,2020,1,0.0050809405648115325,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,43,8463,0.5080940564811532
+2021-01-01,2021,1,0.004115684093437153,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,37,8990,0.41156840934371525
+2022-01-01,2022,1,0.003745318352059925,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,36,9612,0.37453183520599254
+2023-01-01,2023,1,0.002769554006303123,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,29,10471,0.2769554006303123
+2024-01-01,2024,1,0.0019071837253655435,JANIS,Japan,Pseudomonas aeruginosa,amikacin,blood,Pseudomonas aeruginosa,AMK,21,11011,0.19071837253655435
+2011-01-01,2011,1,0.1336687028386633,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,372,2783,13.36687028386633
+2012-01-01,2012,1,0.1471264367816092,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,448,3045,14.71264367816092
+2013-01-01,2013,1,0.13836662749706227,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,471,3404,13.836662749706226
+2014-01-01,2014,1,0.11666666666666667,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,420,3600,11.666666666666666
+2015-01-01,2015,1,0.11431261770244822,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,607,5310,11.431261770244822
+2016-01-01,2016,1,0.11371527777777778,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,655,5760,11.371527777777777
+2017-01-01,2017,1,0.11664,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,729,6250,11.664
+2018-01-01,2018,1,0.10685514515883873,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,703,6579,10.685514515883874
+2019-01-01,2019,1,0.11412806737331203,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,786,6887,11.412806737331204
+2020-01-01,2020,1,0.11234263820470718,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,821,7308,11.234263820470717
+2021-01-01,2021,1,0.11314475873544093,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,884,7813,11.314475873544092
+2022-01-01,2022,1,0.11088685741422297,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,934,8423,11.088685741422296
+2023-01-01,2023,1,0.09697518975869492,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,856,8827,9.697518975869492
+2024-01-01,2024,1,0.0924587334124501,JANIS,Japan,Pseudomonas aeruginosa,aztreonam,blood,Pseudomonas aeruginosa,AZT,857,9269,9.24587334124501
+2011-01-01,2011,1,0.08117378048780488,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,213,2624,8.117378048780488
+2012-01-01,2012,1,0.07982336956521739,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,235,2944,7.982336956521739
+2013-01-01,2013,1,0.07067030633909614,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,233,3297,7.0670306339096145
+2014-01-01,2014,1,0.06433677521842732,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,243,3777,6.433677521842732
+2015-01-01,2015,1,0.059604964167103654,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,341,5721,5.960496416710366
+2016-01-01,2016,1,0.05244974874371859,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,334,6368,5.244974874371859
+2017-01-01,2017,1,0.06007527504342791,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,415,6908,6.007527504342791
+2018-01-01,2018,1,0.04862148580741545,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,358,7363,4.862148580741545
+2019-01-01,2019,1,0.05455018877750293,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,419,7681,5.455018877750293
+2020-01-01,2020,1,0.04778156996587031,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,392,8204,4.778156996587031
+2021-01-01,2021,1,0.04753820033955857,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,420,8835,4.753820033955857
+2022-01-01,2022,1,0.04617176744678598,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,436,9443,4.617176744678598
+2023-01-01,2023,1,0.03435715692065367,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,349,10158,3.4357156920653673
+2024-01-01,2024,1,0.034999534580657174,JANIS,Japan,Pseudomonas aeruginosa,cefepime,blood,Pseudomonas aeruginosa,FEP,376,10743,3.4999534580657174
+2011-01-01,2011,1,0.08453292496171516,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,276,3265,8.453292496171516
+2012-01-01,2012,1,0.09781063406312197,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,344,3517,9.781063406312198
+2013-01-01,2013,1,0.09135738385673502,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,352,3853,9.135738385673502
+2014-01-01,2014,1,0.07741326410195894,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,328,4237,7.741326410195894
+2015-01-01,2015,1,0.0738581146744412,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,456,6174,7.38581146744412
+2016-01-01,2016,1,0.06961471103327496,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,477,6852,6.961471103327496
+2017-01-01,2017,1,0.07540121748754842,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,545,7228,7.540121748754842
+2018-01-01,2018,1,0.06913709571821396,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,528,7637,6.9137095718213954
+2019-01-01,2019,1,0.07782101167315175,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,620,7967,7.782101167315175
+2020-01-01,2020,1,0.06903445842643773,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,587,8503,6.903445842643772
+2021-01-01,2021,1,0.0698877393792648,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,635,9086,6.988773937926481
+2022-01-01,2022,1,0.07078640074403224,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,685,9677,7.078640074403224
+2023-01-01,2023,1,0.05897162777186017,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,609,10327,5.897162777186018
+2024-01-01,2024,1,0.05931426475980931,JANIS,Japan,Pseudomonas aeruginosa,ceftazidime,blood,Pseudomonas aeruginosa,CAZ,647,10908,5.931426475980931
+2011-01-01,2011,1,0.10929909784871616,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,315,2882,10.929909784871617
+2012-01-01,2012,1,0.10095541401273886,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,317,3140,10.095541401273886
+2013-01-01,2013,1,0.08854612967723507,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,310,3501,8.854612967723508
+2014-01-01,2014,1,0.08086888249149438,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,309,3821,8.086888249149437
+2015-01-01,2015,1,0.06847161572052402,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,392,5725,6.847161572052402
+2016-01-01,2016,1,0.06291600633914421,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,397,6310,6.291600633914421
+2017-01-01,2017,1,0.05936947554507955,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,403,6788,5.936947554507955
+2018-01-01,2018,1,0.05170964125560538,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,369,7136,5.170964125560538
+2019-01-01,2019,1,0.04619890826787378,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,347,7511,4.619890826787378
+2020-01-01,2020,1,0.053562531141006474,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,430,8028,5.356253114100648
+2021-01-01,2021,1,0.045491470349309504,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,392,8617,4.54914703493095
+2022-01-01,2022,1,0.04163005272407733,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,379,9104,4.163005272407733
+2023-01-01,2023,1,0.034451219512195125,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,339,9840,3.4451219512195124
+2024-01-01,2024,1,0.029745179730646255,JANIS,Japan,Pseudomonas aeruginosa,ciprofloxacin,blood,Pseudomonas aeruginosa,CIP,307,10321,2.9745179730646254
+2011-01-01,2011,1,0.05011464133639044,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,153,3053,5.011464133639044
+2012-01-01,2012,1,0.043095599393019726,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,142,3295,4.309559939301972
+2013-01-01,2013,1,0.03798170224563349,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,137,3607,3.798170224563349
+2014-01-01,2014,1,0.028948704926358558,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,114,3938,2.8948704926358557
+2015-01-01,2015,1,0.02662616154395997,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,149,5596,2.662616154395997
+2016-01-01,2016,1,0.022374652947901356,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,137,6123,2.2374652947901357
+2017-01-01,2017,1,0.016040329972502293,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,105,6546,1.6040329972502292
+2018-01-01,2018,1,0.017724413950829045,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,124,6996,1.7724413950829045
+2019-01-01,2019,1,0.02000551876379691,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,145,7248,2.0005518763796912
+2020-01-01,2020,1,0.01629380576748998,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,126,7733,1.629380576748998
+2021-01-01,2021,1,0.012395679921453117,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,101,8148,1.2395679921453118
+2022-01-01,2022,1,0.013538532747049295,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,117,8642,1.3538532747049294
+2023-01-01,2023,1,0.009448305821025196,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,87,9208,0.9448305821025196
+2024-01-01,2024,1,0.012136664966853646,JANIS,Japan,Pseudomonas aeruginosa,gentamicin,blood,Pseudomonas aeruginosa,GEN,119,9805,1.2136664966853645
+2011-01-01,2011,1,0.1399872448979592,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,439,3136,13.998724489795919
+2012-01-01,2012,1,0.12488822652757078,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,419,3355,12.488822652757078
+2013-01-01,2013,1,0.11802923659989172,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,436,3694,11.80292365998917
+2014-01-01,2014,1,0.1466065747613998,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,553,3772,14.66065747613998
+2015-01-01,2015,1,0.12908868287563408,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,738,5717,12.908868287563408
+2016-01-01,2016,1,0.12031620553359684,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,761,6325,12.031620553359684
+2017-01-01,2017,1,0.1154642223536369,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,781,6764,11.546422235363691
+2018-01-01,2018,1,0.10594900849858357,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,748,7060,10.594900849858357
+2019-01-01,2019,1,0.10764872521246459,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,798,7413,10.764872521246458
+2020-01-01,2020,1,0.11276864728192162,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,892,7910,11.276864728192162
+2021-01-01,2021,1,0.11158342189160468,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,945,8469,11.158342189160468
+2022-01-01,2022,1,0.10043328519053439,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,904,9001,10.04332851905344
+2023-01-01,2023,1,0.08349859096127753,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,800,9581,8.349859096127753
+2024-01-01,2024,1,0.08287073750991276,JANIS,Japan,Pseudomonas aeruginosa,imipenem,blood,Pseudomonas aeruginosa,IPM,836,10088,8.287073750991276
+2011-01-01,2011,1,0.1134020618556701,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,352,3104,11.34020618556701
+2012-01-01,2012,1,0.10738653218629486,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,362,3371,10.738653218629485
+2013-01-01,2013,1,0.09048404840484048,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,329,3636,9.048404840484048
+2014-01-01,2014,1,0.08884401817264008,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,352,3962,8.884401817264008
+2015-01-01,2015,1,0.07263427109974424,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,426,5865,7.263427109974424
+2016-01-01,2016,1,0.06758642070996744,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,436,6451,6.758642070996744
+2017-01-01,2017,1,0.06845151953690304,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,473,6910,6.845151953690304
+2018-01-01,2018,1,0.06110880685745887,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,442,7233,6.110880685745887
+2019-01-01,2019,1,0.05268759978712081,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,396,7516,5.2687599787120805
+2020-01-01,2020,1,0.057564575645756455,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,468,8130,5.756457564575646
+2021-01-01,2021,1,0.05282669138090825,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,456,8632,5.282669138090825
+2022-01-01,2022,1,0.04769647696476965,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,440,9225,4.769647696476965
+2023-01-01,2023,1,0.042271862165681656,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,422,9983,4.227186216568166
+2024-01-01,2024,1,0.036418816388467376,JANIS,Japan,Pseudomonas aeruginosa,levofloxacin,blood,Pseudomonas aeruginosa,LVX,384,10544,3.6418816388467374
+2011-01-01,2011,1,0.0939751146037983,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,287,3054,9.39751146037983
+2012-01-01,2012,1,0.08813763960156958,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,292,3313,8.813763960156958
+2013-01-01,2013,1,0.07995588640749932,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,290,3627,7.995588640749932
+2014-01-01,2014,1,0.10063856960408685,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,394,3915,10.063856960408685
+2015-01-01,2015,1,0.08945634266886326,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,543,6070,8.945634266886326
+2016-01-01,2016,1,0.08598540145985402,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,589,6850,8.598540145985401
+2017-01-01,2017,1,0.08083172679702562,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,587,7262,8.083172679702562
+2018-01-01,2018,1,0.06978258039317797,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,536,7681,6.978258039317797
+2019-01-01,2019,1,0.072117190434456,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,576,7987,7.2117190434455996
+2020-01-01,2020,1,0.07059645852749301,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,606,8584,7.059645852749301
+2021-01-01,2021,1,0.07039947609692207,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,645,9162,7.039947609692207
+2022-01-01,2022,1,0.06257006012432488,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,614,9813,6.257006012432488
+2023-01-01,2023,1,0.05044736341138397,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,530,10506,5.044736341138397
+2024-01-01,2024,1,0.046358214350262064,JANIS,Japan,Pseudomonas aeruginosa,meropenem,blood,Pseudomonas aeruginosa,MEM,513,11066,4.635821435026206
+2011-01-01,2011,1,0.08240534521158129,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,259,3143,8.240534521158128
+2012-01-01,2012,1,0.0952239691486206,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,321,3371,9.522396914862059
+2013-01-01,2013,1,0.08981233243967829,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,335,3730,8.981233243967829
+2014-01-01,2014,1,0.0787137029037677,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,328,4167,7.8713702903767695
+2015-01-01,2015,1,0.0760443864229765,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,466,6128,7.604438642297651
+2016-01-01,2016,1,0.07083825265643448,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,480,6776,7.083825265643448
+2017-01-01,2017,1,0.08036211699164346,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,577,7180,8.036211699164346
+2018-01-01,2018,1,0.07059287498356777,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,537,7607,7.059287498356777
+2019-01-01,2019,1,0.07775104470051919,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,614,7897,7.775104470051919
+2020-01-01,2020,1,0.07142857142857142,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,603,8442,7.142857142857142
+2021-01-01,2021,1,0.07099346550005538,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,641,9029,7.099346550005538
+2022-01-01,2022,1,0.0714136562956776,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,684,9578,7.14136562956776
+2023-01-01,2023,1,0.061455788959452855,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,629,10235,6.1455788959452855
+2024-01-01,2024,1,0.059493789109928086,JANIS,Japan,Pseudomonas aeruginosa,piperacillin,blood,Pseudomonas aeruginosa,PIPC,637,10707,5.949378910992809
+2011-01-01,2011,1,0.07763532763532764,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,109,1404,7.763532763532764
+2012-01-01,2012,1,0.0781758957654723,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,144,1842,7.81758957654723
+2013-01-01,2013,1,0.08022922636103152,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,168,2094,8.022922636103152
+2014-01-01,2014,1,0.06704761904761905,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,176,2625,6.704761904761905
+2015-01-01,2015,1,0.06761883508145504,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,303,4481,6.7618835081455035
+2016-01-01,2016,1,0.06003098373353989,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,310,5164,6.003098373353989
+2017-01-01,2017,1,0.06839121190644933,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,386,5644,6.839121190644932
+2018-01-01,2018,1,0.05578478296748638,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,338,6059,5.578478296748638
+2019-01-01,2019,1,0.06529000911023383,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,430,6586,6.529000911023383
+2020-01-01,2020,1,0.05854540397719372,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,421,7191,5.854540397719372
+2021-01-01,2021,1,0.059823597085517065,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,468,7823,5.982359708551707
+2022-01-01,2022,1,0.05894886363636364,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,498,8448,5.894886363636364
+2023-01-01,2023,1,0.05146416083916084,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,471,9152,5.146416083916084
+2024-01-01,2024,1,0.05074320861096873,JANIS,Japan,Pseudomonas aeruginosa,piperacillin with tazobactam,blood,Pseudomonas aeruginosa,TAZ/PIPC,495,9755,5.074320861096873
+2011-01-01,2011,1,0.4296052631578947,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,653,1520,42.96052631578947
+2012-01-01,2012,1,0.3583138173302108,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,459,1281,35.831381733021075
+2013-01-01,2013,1,0.33547557840616965,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,522,1556,33.54755784061697
+2014-01-01,2014,1,0.27445168938944875,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,463,1687,27.445168938944875
+2015-01-01,2015,1,0.2898181818181818,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,797,2750,28.98181818181818
+2016-01-01,2016,1,0.28914972802748357,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1010,3493,28.914972802748355
+2017-01-01,2017,1,0.2601480725044677,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1019,3917,26.01480725044677
+2018-01-01,2018,1,0.24359560841720038,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1065,4372,24.359560841720036
+2019-01-01,2019,1,0.2363020943515972,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1117,4727,23.63020943515972
+2020-01-01,2020,1,0.2245060866094592,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1125,5011,22.45060866094592
+2021-01-01,2021,1,0.21522404174914522,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1196,5557,21.522404174914524
+2022-01-01,2022,1,0.20704225352112676,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1323,6390,20.704225352112676
+2023-01-01,2023,1,0.19344113646667674,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1280,6617,19.344113646667672
+2024-01-01,2024,1,0.17647058823529413,JANIS,Japan,Staphylococcus aureus,amoxicillin-clavulanate,blood,STAAUR,CVA/AMPC,1251,7089,17.647058823529413
+2011-01-01,2011,1,0.07454810822948243,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,664,8907,7.454810822948243
+2012-01-01,2012,1,0.06371420679495442,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,692,10861,6.371420679495442
+2013-01-01,2013,1,0.06086668871981475,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,736,12092,6.086668871981475
+2014-01-01,2014,1,0.04695297141993044,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,621,13226,4.695297141993044
+2015-01-01,2015,1,0.04386512644395879,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,843,19218,4.386512644395879
+2016-01-01,2016,1,0.0460431654676259,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,992,21545,4.60431654676259
+2017-01-01,2017,1,0.040873915088289366,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,956,23389,4.0873915088289365
+2018-01-01,2018,1,0.040241139653649734,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,1048,26043,4.024113965364974
+2019-01-01,2019,1,0.035841426744547746,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,1037,28933,3.5841426744547746
+2020-01-01,2020,1,0.032825401087467274,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,978,29794,3.282540108746727
+2021-01-01,2021,1,0.029542812863231304,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,915,30972,2.9542812863231305
+2022-01-01,2022,1,0.028667249927092447,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,983,34290,2.8667249927092446
+2023-01-01,2023,1,0.023607149916697257,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,836,35413,2.3607149916697256
+2024-01-01,2024,1,0.021618455187034504,JANIS,Japan,Staphylococcus aureus,ampicillin-sulbactam,blood,STAAUR,SBT/ABPC,775,35849,2.1618455187034504
+2011-01-01,2011,1,0.3469555903435775,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4211,12137,34.69555903435775
+2012-01-01,2012,1,0.3041771589394164,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4107,13502,30.417715893941637
+2013-01-01,2013,1,0.25951883550104454,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,3851,14839,25.951883550104455
+2014-01-01,2014,1,0.21842478713339641,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,3694,16912,21.84247871333964
+2015-01-01,2015,1,0.1974837021965702,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4756,24083,19.74837021965702
+2016-01-01,2016,1,0.1812598307242903,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4840,26702,18.12598307242903
+2017-01-01,2017,1,0.15441665209025712,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4414,28585,15.441665209025713
+2018-01-01,2018,1,0.1376022676029118,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4272,31046,13.76022676029118
+2019-01-01,2019,1,0.13157345886839675,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4416,33563,13.157345886839675
+2020-01-01,2020,1,0.12726186921469096,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4262,33490,12.726186921469097
+2021-01-01,2021,1,0.11426808403219925,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4074,35653,11.426808403219924
+2022-01-01,2022,1,0.10223160434258143,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,4068,39792,10.223160434258142
+2023-01-01,2023,1,0.09488785318963006,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,3909,41196,9.488785318963005
+2024-01-01,2024,1,0.09160671462829736,JANIS,Japan,Staphylococcus aureus,cefazolin,blood,STAAUR,CEZ,3820,41700,9.160671462829736
+2011-01-01,2011,1,0.4792514239218877,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,589,1229,47.92514239218877
+2012-01-01,2012,1,0.4258720930232558,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,586,1376,42.587209302325576
+2013-01-01,2013,1,0.4063786008230453,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,790,1944,40.63786008230453
+2014-01-01,2014,1,0.38517915309446255,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,946,2456,38.51791530944625
+2015-01-01,2015,1,0.3796844181459566,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,1540,4056,37.96844181459566
+2016-01-01,2016,1,0.3796885281860057,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,1731,4559,37.96885281860057
+2017-01-01,2017,1,0.3791586998087954,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,1983,5230,37.91586998087954
+2018-01-01,2018,1,0.35142610198789975,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2033,5785,35.142610198789974
+2019-01-01,2019,1,0.3648726851851852,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2522,6912,36.48726851851852
+2020-01-01,2020,1,0.3509278350515464,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2553,7275,35.09278350515464
+2021-01-01,2021,1,0.3446646541540885,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2626,7619,34.46646541540885
+2022-01-01,2022,1,0.3259943181818182,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2754,8448,32.59943181818182
+2023-01-01,2023,1,0.3022993688007214,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2682,8872,30.229936880072138
+2024-01-01,2024,1,0.313746985310239,JANIS,Japan,Staphylococcus aureus,cefoxitin,blood,STAAUR,FOX,2862,9122,31.3746985310239
+2011-01-01,2011,1,0.37429854096520765,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4002,10692,37.429854096520764
+2012-01-01,2012,1,0.32360056728122133,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3879,11987,32.36005672812213
+2013-01-01,2013,1,0.2857250300842359,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3799,13296,28.57250300842359
+2014-01-01,2014,1,0.23793534794917373,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3614,15189,23.793534794917374
+2015-01-01,2015,1,0.21075335764475675,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4739,22486,21.075335764475675
+2016-01-01,2016,1,0.19322764844467516,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4839,25043,19.322764844467518
+2017-01-01,2017,1,0.17290452711788434,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4629,26772,17.290452711788433
+2018-01-01,2018,1,0.14866947498201993,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4341,29199,14.866947498201993
+2019-01-01,2019,1,0.1411731332934094,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,4479,31727,14.117313329340938
+2020-01-01,2020,1,0.12413771379972911,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3941,31747,12.41377137997291
+2021-01-01,2021,1,0.117495939760815,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3979,33865,11.749593976081501
+2022-01-01,2022,1,0.10170211635996708,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3830,37659,10.170211635996708
+2023-01-01,2023,1,0.09430462248069789,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3762,39892,9.430462248069789
+2024-01-01,2024,1,0.0909045995751198,JANIS,Japan,Staphylococcus aureus,clindamycin,blood,STAAUR,CLDM,3680,40482,9.09045995751198
+2011-01-01,2011,1,0.5130335899230231,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,5865,11432,51.30335899230231
+2012-01-01,2012,1,0.4930484643782892,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,6277,12731,49.30484643782892
+2013-01-01,2013,1,0.4650843042188291,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,6427,13819,46.50843042188291
+2014-01-01,2014,1,0.4456909739928608,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,6992,15688,44.56909739928608
+2015-01-01,2015,1,0.42579622043081805,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,9666,22701,42.579622043081805
+2016-01-01,2016,1,0.4313937212557489,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,10787,25005,43.13937212557489
+2017-01-01,2017,1,0.4276471694564604,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,11369,26585,42.76471694564604
+2018-01-01,2018,1,0.41703474420060516,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,11991,28753,41.703474420060516
+2019-01-01,2019,1,0.413979181301488,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,12965,31318,41.397918130148796
+2020-01-01,2020,1,0.40892753995250625,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,12743,31162,40.89275399525062
+2021-01-01,2021,1,0.38746748926389646,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,12812,33066,38.74674892638964
+2022-01-01,2022,1,0.372159939194875,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,13710,36839,37.2159939194875
+2023-01-01,2023,1,0.37022722556547,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,14273,38552,37.022722556547
+2024-01-01,2024,1,0.37319777715178365,JANIS,Japan,Staphylococcus aureus,erythromycin,blood,STAAUR,EM,14573,39049,37.31977771517837
+2011-01-01,2011,1,0.38295004633139584,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,4546,11871,38.295004633139584
+2012-01-01,2012,1,0.3569854896300236,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,4699,13163,35.69854896300236
+2013-01-01,2013,1,0.35279294414111717,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,5040,14286,35.27929441411172
+2014-01-01,2014,1,0.3243025916991402,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,5243,16167,32.430259169914024
+2015-01-01,2015,1,0.318663996932646,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,7480,23473,31.8663996932646
+2016-01-01,2016,1,0.3042688815916554,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,7876,25885,30.42688815916554
+2017-01-01,2017,1,0.2909603498753027,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,8050,27667,29.096034987530274
+2018-01-01,2018,1,0.2768631140380351,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,8240,29762,27.686311403803508
+2019-01-01,2019,1,0.2717983651226158,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,8778,32296,27.17983651226158
+2020-01-01,2020,1,0.2570318282753516,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,8334,32424,25.70318282753516
+2021-01-01,2021,1,0.2541043574961224,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,8683,34171,25.410435749612244
+2022-01-01,2022,1,0.24595256271882487,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,9343,37987,24.595256271882487
+2023-01-01,2023,1,0.23940212588683818,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,9482,39607,23.940212588683817
+2024-01-01,2024,1,0.23986419013381266,JANIS,Japan,Staphylococcus aureus,gentamicin,blood,STAAUR,GEN,9608,40056,23.986419013381266
+2011-01-01,2011,1,0.3478961655921276,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,4101,11788,34.78961655921276
+2012-01-01,2012,1,0.29435731857318576,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3829,13008,29.435731857318576
+2013-01-01,2013,1,0.26073223259152906,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3632,13930,26.073223259152904
+2014-01-01,2014,1,0.20667398179823146,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3202,15493,20.667398179823145
+2015-01-01,2015,1,0.18278659297557498,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,4101,22436,18.278659297557496
+2016-01-01,2016,1,0.1618198110133594,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3973,24552,16.18198110133594
+2017-01-01,2017,1,0.1314756369794473,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3416,25982,13.147563697944731
+2018-01-01,2018,1,0.11334715470403203,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3171,27976,11.334715470403204
+2019-01-01,2019,1,0.10187454461151223,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,3076,30194,10.187454461151223
+2020-01-01,2020,1,0.0900010089799213,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,2676,29733,9.00010089799213
+2021-01-01,2021,1,0.07770491803278688,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,2370,30500,7.770491803278688
+2022-01-01,2022,1,0.07115980855482977,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,2364,33221,7.115980855482977
+2023-01-01,2023,1,0.05810935775437759,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,1948,33523,5.810935775437759
+2024-01-01,2024,1,0.05392037868673383,JANIS,Japan,Staphylococcus aureus,imipenem,blood,STAAUR,IPM,1777,32956,5.392037868673382
+2011-01-01,2011,1,0.4708294182967455,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,5512,11707,47.08294182967455
+2012-01-01,2012,1,0.43211958604829437,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,5637,13045,43.211958604829434
+2013-01-01,2013,1,0.4080651901379022,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,5859,14358,40.80651901379022
+2014-01-01,2014,1,0.38944723618090454,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,6355,16318,38.94472361809046
+2015-01-01,2015,1,0.3852154845239099,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,9135,23714,38.52154845239099
+2016-01-01,2016,1,0.39047801881359184,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,10170,26045,39.047801881359185
+2017-01-01,2017,1,0.3940621270748201,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,10897,27653,39.406212707482005
+2018-01-01,2018,1,0.3902552204176334,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,11774,30170,39.02552204176334
+2019-01-01,2019,1,0.3959132712101833,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,13001,32838,39.59132712101833
+2020-01-01,2020,1,0.3986625514403292,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,13175,33048,39.86625514403292
+2021-01-01,2021,1,0.40027431706480743,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,14008,34996,40.02743170648074
+2022-01-01,2022,1,0.39864357640237114,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,15400,38631,39.86435764023712
+2023-01-01,2023,1,0.39981469742039305,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,16398,41014,39.9814697420393
+2024-01-01,2024,1,0.41453731774216834,JANIS,Japan,Staphylococcus aureus,levofloxacin,blood,STAAUR,LVX,17229,41562,41.453731774216834
+2011-01-01,2011,1,0.0,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,0,8070,0.0
+2012-01-01,2012,1,0.0,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,0,9438,0.0
+2013-01-01,2013,1,0.0,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,0,10748,0.0
+2014-01-01,2014,1,0.00023807634314736926,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,3,12601,0.023807634314736925
+2015-01-01,2015,1,0.0004306400387576035,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,8,18577,0.04306400387576035
+2016-01-01,2016,1,0.00047485635595232443,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,10,21059,0.047485635595232445
+2017-01-01,2017,1,0.0005335704757670075,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,12,22490,0.053357047576700754
+2018-01-01,2018,1,0.00056838942795664,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,14,24631,0.056838942795664
+2019-01-01,2019,1,0.0003317483136127391,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,9,27129,0.03317483136127391
+2020-01-01,2020,1,0.00036309502196724884,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,10,27541,0.03630950219672489
+2021-01-01,2021,1,0.00017214074227088068,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,5,29046,0.017214074227088066
+2022-01-01,2022,1,0.00012335399512751718,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,4,32427,0.012335399512751718
+2023-01-01,2023,1,0.0001724336130589723,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,6,34796,0.01724336130589723
+2024-01-01,2024,1,0.0001677289500167729,JANIS,Japan,Staphylococcus aureus,linezolid,blood,STAAUR,LZD,6,35772,0.01677289500167729
+2011-01-01,2011,1,0.36792154381524833,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,1163,3161,36.79215438152483
+2012-01-01,2012,1,0.2993245645218628,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,842,2813,29.93245645218628
+2013-01-01,2013,1,0.2581002492384381,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,932,3611,25.810024923843812
+2014-01-01,2014,1,0.20752823086574654,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,827,3985,20.752823086574654
+2015-01-01,2015,1,0.2036351938233875,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,1266,6217,20.363519382338747
+2016-01-01,2016,1,0.18032568072610786,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,1351,7492,18.032568072610786
+2017-01-01,2017,1,0.15693026687984257,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,1276,8131,15.693026687984258
+2018-01-01,2018,1,0.13887635379061372,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,1231,8864,13.887635379061372
+2019-01-01,2019,1,0.10365109310842303,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,934,9011,10.365109310842303
+2020-01-01,2020,1,0.08791208791208792,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,824,9373,8.791208791208792
+2021-01-01,2021,1,0.08051282051282051,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,785,9750,8.051282051282051
+2022-01-01,2022,1,0.07283537718320326,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,784,10764,7.283537718320327
+2023-01-01,2023,1,0.06368973492261164,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,716,11242,6.368973492261164
+2024-01-01,2024,1,0.05603676860526781,JANIS,Japan,Staphylococcus aureus,meropenem,blood,STAAUR,MEM,634,11314,5.603676860526781
+2011-01-01,2011,1,0.24183590576766856,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2977,12310,24.183590576766857
+2012-01-01,2012,1,0.19497784342688332,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2640,13540,19.49778434268833
+2013-01-01,2013,1,0.15869477097689502,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2349,14802,15.869477097689503
+2014-01-01,2014,1,0.13986764442854588,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2346,16773,13.986764442854588
+2015-01-01,2015,1,0.1273235329850565,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,3144,24693,12.73235329850565
+2016-01-01,2016,1,0.11429093567251462,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,3127,27360,11.429093567251462
+2017-01-01,2017,1,0.10472067614924757,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,3048,29106,10.472067614924757
+2018-01-01,2018,1,0.0911599581311257,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2874,31527,9.115995813112571
+2019-01-01,2019,1,0.07773571617219825,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2649,34077,7.773571617219825
+2020-01-01,2020,1,0.07241942064463484,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2485,34314,7.241942064463484
+2021-01-01,2021,1,0.06921765902468525,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2518,36378,6.921765902468525
+2022-01-01,2022,1,0.06108759684166234,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2468,40401,6.108759684166234
+2023-01-01,2023,1,0.05474800567481452,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2354,42997,5.474800567481452
+2024-01-01,2024,1,0.04899690473460965,JANIS,Japan,Staphylococcus aureus,minocycline,blood,STAAUR,MNO,2137,43615,4.899690473460965
+2011-01-01,2011,1,0.4746192893401015,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,4862,10244,47.46192893401015
+2012-01-01,2012,1,0.43795749184231414,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,4966,11339,43.79574918423141
+2013-01-01,2013,1,0.4142198495510798,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,5121,12363,41.42198495510798
+2014-01-01,2014,1,0.38728365558693606,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,5348,13809,38.7283655586936
+2015-01-01,2015,1,0.38025931430328497,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,7420,19513,38.0259314303285
+2016-01-01,2016,1,0.3797696354931981,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,8012,21097,37.976963549319805
+2017-01-01,2017,1,0.3714877521613833,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,8250,22208,37.14877521613833
+2018-01-01,2018,1,0.3604120925519338,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,8536,23684,36.04120925519338
+2019-01-01,2019,1,0.36421700354402775,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9352,25677,36.42170035440277
+2020-01-01,2020,1,0.358595994176209,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9113,25413,35.8595994176209
+2021-01-01,2021,1,0.35054561817977276,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9348,26667,35.05456181797727
+2022-01-01,2022,1,0.3388875610339058,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9925,29287,33.888756103390584
+2023-01-01,2023,1,0.3251505326540065,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9828,30226,32.51505326540065
+2024-01-01,2024,1,0.32690453230472516,JANIS,Japan,Staphylococcus aureus,oxacillin,blood,STAAUR,OXA,9831,30073,32.690453230472514
+2011-01-01,2011,1,0.7656759526693375,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,8218,10733,76.56759526693375
+2012-01-01,2012,1,0.7436655405405406,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,8805,11840,74.36655405405406
+2013-01-01,2013,1,0.7272869674185464,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,9286,12768,72.72869674185463
+2014-01-01,2014,1,0.7108021546076576,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,9765,13738,71.08021546076576
+2015-01-01,2015,1,0.6992914309017689,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,13718,19617,69.9291430901769
+2016-01-01,2016,1,0.6911153648629721,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,14803,21419,69.11153648629721
+2017-01-01,2017,1,0.6833609632667307,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,15664,22922,68.33609632667307
+2018-01-01,2018,1,0.6694066773150493,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,17183,25669,66.94066773150493
+2019-01-01,2019,1,0.6677193225985564,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,19241,28816,66.77193225985563
+2020-01-01,2020,1,0.6593287865487204,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,19528,29618,65.93287865487204
+2021-01-01,2021,1,0.6548766044620851,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,20459,31241,65.48766044620851
+2022-01-01,2022,1,0.6533977492984638,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,22586,34567,65.33977492984639
+2023-01-01,2023,1,0.6468322742152898,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,23513,36351,64.68322742152898
+2024-01-01,2024,1,0.6496571908620362,JANIS,Japan,Staphylococcus aureus,penicillin,blood,STAAUR,PEN,23973,36901,64.96571908620362
+2011-01-01,2011,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,11524,0.0
+2012-01-01,2012,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,12897,0.0
+2013-01-01,2013,1,7.061149555147578e-05,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,1,14162,0.007061149555147578
+2014-01-01,2014,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,16016,0.0
+2015-01-01,2015,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,22782,0.0
+2016-01-01,2016,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,25112,0.0
+2017-01-01,2017,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,26625,0.0
+2018-01-01,2018,1,3.483713638738896e-05,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,1,28705,0.003483713638738896
+2019-01-01,2019,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,30997,0.0
+2020-01-01,2020,1,6.437284753291062e-05,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,2,31069,0.006437284753291062
+2021-01-01,2021,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,32832,0.0
+2022-01-01,2022,1,0.0,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,0,36442,0.0
+2023-01-01,2023,1,2.5924197646082854e-05,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,1,38574,0.0025924197646082854
+2024-01-01,2024,1,2.567987468221155e-05,JANIS,Japan,Staphylococcus aureus,teicoplanin,blood,STAAUR,TEIC,1,38941,0.002567987468221155
+2011-01-01,2011,1,0.005491089929548281,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,53,9652,0.5491089929548281
+2012-01-01,2012,1,0.0051428046652585175,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,56,10889,0.5142804665258518
+2013-01-01,2013,1,0.004545454545454545,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,54,11880,0.45454545454545453
+2014-01-01,2014,1,0.004671136894447374,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,62,13273,0.4671136894447374
+2015-01-01,2015,1,0.004428744661780988,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,84,18967,0.4428744661780988
+2016-01-01,2016,1,0.004279463384141944,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,89,20797,0.4279463384141944
+2017-01-01,2017,1,0.005515121377876226,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,122,22121,0.5515121377876226
+2018-01-01,2018,1,0.004018393471146278,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,97,24139,0.40183934711462777
+2019-01-01,2019,1,0.005292005292005292,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,140,26455,0.5292005292005292
+2020-01-01,2020,1,0.004614812058057313,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,124,26870,0.46148120580573126
+2021-01-01,2021,1,0.004337469335513919,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,122,28127,0.4337469335513919
+2022-01-01,2022,1,0.00422979797979798,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,134,31680,0.422979797979798
+2023-01-01,2023,1,0.003943960442665411,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,134,33976,0.3943960442665411
+2024-01-01,2024,1,0.0031439284684164986,JANIS,Japan,Staphylococcus aureus,trimethoprim-sulfamethoxazole,blood,STAAUR,J01EE,109,34670,0.31439284684164986
+2011-01-01,2011,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,12058,0.0
+2012-01-01,2012,1,7.420048972323217e-05,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,1,13477,0.007420048972323217
+2013-01-01,2013,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,14751,0.0
+2014-01-01,2014,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,16695,0.0
+2015-01-01,2015,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,24282,0.0
+2016-01-01,2016,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,26855,0.0
+2017-01-01,2017,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,28620,0.0
+2018-01-01,2018,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,31036,0.0
+2019-01-01,2019,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,33622,0.0
+2020-01-01,2020,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,33724,0.0
+2021-01-01,2021,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,35419,0.0
+2022-01-01,2022,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,39251,0.0
+2023-01-01,2023,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,42263,0.0
+2024-01-01,2024,1,0.0,JANIS,Japan,Staphylococcus aureus,vancomycin,blood,STAAUR,VCM,0,42922,0.0
+2011-01-01,2011,1,0.01177336276674025,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,16,1359,1.177336276674025
+2012-01-01,2012,1,0.011863224005582694,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,17,1433,1.1863224005582695
+2013-01-01,2013,1,0.013140604467805518,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,20,1522,1.314060446780552
+2014-01-01,2014,1,0.008786381109280615,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,16,1821,0.8786381109280615
+2015-01-01,2015,1,0.011609287429943955,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,29,2498,1.1609287429943955
+2016-01-01,2016,1,0.005758157389635317,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,15,2605,0.5758157389635317
+2017-01-01,2017,1,0.004162330905306972,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,12,2883,0.41623309053069724
+2018-01-01,2018,1,0.0038569424964936885,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,11,2852,0.3856942496493688
+2019-01-01,2019,1,0.009632536567962896,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,27,2803,0.9632536567962896
+2020-01-01,2020,1,0.00684931506849315,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,10,1460,0.684931506849315
+2021-01-01,2021,1,0.007993605115907274,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,10,1251,0.7993605115907274
+2022-01-01,2022,1,0.009870918754745633,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,13,1317,0.9870918754745633
+2023-01-01,2023,1,0.009259259259259259,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,17,1836,0.9259259259259258
+2024-01-01,2024,1,0.006006006006006006,JANIS,Japan,Streptococcus pneumoniae,cefotaxime,blood,STRPNE,CTX,14,2331,0.6006006006006006
+2011-01-01,2011,1,0.00905349794238683,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,11,1215,0.9053497942386831
+2012-01-01,2012,1,0.009174311926605505,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,13,1417,0.9174311926605505
+2013-01-01,2013,1,0.009144350097975179,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,14,1531,0.9144350097975179
+2014-01-01,2014,1,0.006437768240343348,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,12,1864,0.6437768240343348
+2015-01-01,2015,1,0.008130081300813009,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,22,2706,0.8130081300813009
+2016-01-01,2016,1,0.005151098901098901,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,15,2912,0.5151098901098901
+2017-01-01,2017,1,0.004063769928102532,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,13,3199,0.40637699281025325
+2018-01-01,2018,1,0.002213088839709137,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,7,3163,0.2213088839709137
+2019-01-01,2019,1,0.007881462799495587,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,25,3172,0.7881462799495587
+2020-01-01,2020,1,0.006875,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,11,1600,0.6875
+2021-01-01,2021,1,0.007857142857142858,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,11,1400,0.7857142857142858
+2022-01-01,2022,1,0.009148486980999296,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,13,1421,0.9148486980999296
+2023-01-01,2023,1,0.0075,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,15,2000,0.75
+2024-01-01,2024,1,0.0051875498802873106,JANIS,Japan,Streptococcus pneumoniae,ceftriaxone,blood,STRPNE,CRO,13,2506,0.5187549880287311
+2011-01-01,2011,1,0.5438898450946644,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,632,1162,54.38898450946644
+2012-01-01,2012,1,0.5452261306532663,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,651,1194,54.52261306532663
+2013-01-01,2013,1,0.6086631814787155,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,815,1339,60.866318147871546
+2014-01-01,2014,1,0.6417347580138277,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1021,1591,64.17347580138278
+2015-01-01,2015,1,0.5886205485059354,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1438,2443,58.86205485059354
+2016-01-01,2016,1,0.5866364665911665,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1554,2649,58.66364665911665
+2017-01-01,2017,1,0.5473504273504274,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1601,2925,54.73504273504274
+2018-01-01,2018,1,0.5564573041637262,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1577,2834,55.645730416372615
+2019-01-01,2019,1,0.5482855143456963,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1567,2858,54.828551434569626
+2020-01-01,2020,1,0.5379876796714579,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,786,1461,53.798767967145785
+2021-01-01,2021,1,0.5523882896764253,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,717,1298,55.238828967642526
+2022-01-01,2022,1,0.5408560311284046,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,695,1285,54.08560311284047
+2023-01-01,2023,1,0.5449591280653951,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1000,1835,54.495912806539515
+2024-01-01,2024,1,0.521015761821366,JANIS,Japan,Streptococcus pneumoniae,clindamycin,blood,STRPNE,CLDM,1190,2284,52.1015761821366
+2011-01-01,2011,1,0.8560490045941807,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1118,1306,85.60490045941806
+2012-01-01,2012,1,0.8217687074829932,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1208,1470,82.17687074829932
+2013-01-01,2013,1,0.8629508196721312,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1316,1525,86.29508196721312
+2014-01-01,2014,1,0.8708959376739009,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1565,1797,87.0895937673901
+2015-01-01,2015,1,0.8353634577603143,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,2126,2545,83.53634577603142
+2016-01-01,2016,1,0.8417975886006577,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,2304,2737,84.17975886006576
+2017-01-01,2017,1,0.8230298913043478,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,2423,2944,82.30298913043478
+2018-01-01,2018,1,0.8186274509803921,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,2338,2856,81.86274509803921
+2019-01-01,2019,1,0.8102780711017248,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,2302,2841,81.02780711017247
+2020-01-01,2020,1,0.8057259713701431,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1182,1467,80.57259713701431
+2021-01-01,2021,1,0.7960629921259843,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1011,1270,79.60629921259843
+2022-01-01,2022,1,0.79745889387145,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1067,1338,79.745889387145
+2023-01-01,2023,1,0.7933579335793358,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1505,1897,79.33579335793358
+2024-01-01,2024,1,0.7755186721991701,JANIS,Japan,Streptococcus pneumoniae,erythromycin,blood,STRPNE,EM,1869,2410,77.55186721991701
+2011-01-01,2011,1,0.007260726072607261,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,11,1515,0.7260726072607261
+2012-01-01,2012,1,0.011994949494949494,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,19,1584,1.1994949494949494
+2013-01-01,2013,1,0.01565217391304348,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,27,1725,1.565217391304348
+2014-01-01,2014,1,0.013579049466537343,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,28,2062,1.3579049466537343
+2015-01-01,2015,1,0.01195616074393889,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,36,3011,1.195616074393889
+2016-01-01,2016,1,0.01548467017652524,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,50,3229,1.548467017652524
+2017-01-01,2017,1,0.013771781899943788,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,49,3558,1.377178189994379
+2018-01-01,2018,1,0.010954165465552033,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,38,3469,1.0954165465552033
+2019-01-01,2019,1,0.0189873417721519,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,66,3476,1.89873417721519
+2020-01-01,2020,1,0.016310461192350956,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,29,1778,1.6310461192350956
+2021-01-01,2021,1,0.021883289124668436,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,33,1508,2.1883289124668437
+2022-01-01,2022,1,0.025215660252156602,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,38,1507,2.52156602521566
+2023-01-01,2023,1,0.02287581699346405,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,49,2142,2.287581699346405
+2024-01-01,2024,1,0.01968951154865581,JANIS,Japan,Streptococcus pneumoniae,levofloxacin,blood,STRPNE,LVX,52,2641,1.9689511548655811
+2011-01-01,2011,1,0.015678254942058625,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,23,1467,1.5678254942058625
+2012-01-01,2012,1,0.022786458333333332,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,35,1536,2.278645833333333
+2013-01-01,2013,1,0.031194820482636845,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,53,1699,3.1194820482636847
+2014-01-01,2014,1,0.030821917808219176,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,63,2044,3.0821917808219177
+2015-01-01,2015,1,0.026494565217391304,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,78,2944,2.6494565217391304
+2016-01-01,2016,1,0.020618556701030927,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,66,3201,2.0618556701030926
+2017-01-01,2017,1,0.024195844007970396,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,85,3513,2.4195844007970395
+2018-01-01,2018,1,0.029668411867364748,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,102,3438,2.966841186736475
+2019-01-01,2019,1,0.0330188679245283,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,112,3392,3.30188679245283
+2020-01-01,2020,1,0.044126074498567334,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,77,1745,4.412607449856734
+2021-01-01,2021,1,0.04505716207128446,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,67,1487,4.5057162071284464
+2022-01-01,2022,1,0.04539385847797063,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,68,1498,4.539385847797063
+2023-01-01,2023,1,0.060933660933660934,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,124,2035,6.093366093366093
+2024-01-01,2024,1,0.03883106485188151,JANIS,Japan,Streptococcus pneumoniae,meropenem,blood,STRPNE,MEM,97,2498,3.8831064851881507
+2011-01-01,2011,1,0.12111990261716372,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,199,1643,12.111990261716372
+2012-01-01,2012,1,0.09456264775413711,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,160,1692,9.456264775413711
+2013-01-01,2013,1,0.08388888888888889,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,151,1800,8.38888888888889
+2014-01-01,2014,1,0.0023320895522388058,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,5,2144,0.23320895522388058
+2015-01-01,2015,1,0.002289826627412496,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,7,3057,0.22898266274124962
+2016-01-01,2016,1,0.0006119951040391676,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,2,3268,0.06119951040391676
+2017-01-01,2017,1,0.0008389261744966443,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,3,3576,0.08389261744966443
+2018-01-01,2018,1,0.001151742009789807,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,4,3473,0.1151742009789807
+2019-01-01,2019,1,0.0020242914979757085,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,7,3458,0.20242914979757085
+2020-01-01,2020,1,0.0028702640642939152,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,5,1742,0.28702640642939153
+2021-01-01,2021,1,0.0020134228187919465,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,3,1490,0.20134228187919465
+2022-01-01,2022,1,0.0033222591362126247,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,5,1505,0.33222591362126247
+2023-01-01,2023,1,0.0028544243577545195,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,6,2102,0.285442435775452
+2024-01-01,2024,1,0.0027068832173240526,JANIS,Japan,Streptococcus pneumoniae,penicillin,blood,STRPNE,PEN,7,2586,0.27068832173240526
+2011-01-01,2011,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1451,0.0
+2012-01-01,2012,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1572,0.0
+2013-01-01,2013,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1661,0.0
+2014-01-01,2014,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,2017,0.0
+2015-01-01,2015,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,2906,0.0
+2016-01-01,2016,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,3123,0.0
+2017-01-01,2017,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,3429,0.0
+2018-01-01,2018,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,3335,0.0
+2019-01-01,2019,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,3266,0.0
+2020-01-01,2020,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1688,0.0
+2021-01-01,2021,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1448,0.0
+2022-01-01,2022,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,1455,0.0
+2023-01-01,2023,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,2075,0.0
+2024-01-01,2024,1,0.0,JANIS,Japan,Streptococcus pneumoniae,vancomycin,blood,STRPNE,VCM,0,2586,0.0
