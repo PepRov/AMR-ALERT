@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33061456/README.md)
 # AMR-ALERT
 
 **AMR-ALERT (Antimicrobial Resistance Alert Framework)** is a surveillance-based framework for forecasting when antimicrobial resistance is expected to reach a predefined threshold.
@@ -8,12 +7,14 @@ The workflow was developed for national phenotypic antimicrobial-resistance surv
 - **England:** UK Health Security Agency (UKHSA) Data Dashboard API data.
 - **Japan:** Japan Nosocomial Infections Surveillance (JANIS) annual blood-isolate surveillance data.
 
-The framework fits a log-odds resistance trend for each pathogen–antibiotic time series, estimates threshold-crossing time, quantifies uncertainty using residual bootstrap analysis, and classifies forecast reliability as **PASS**, **CAUTION**, or **FAIL**.
+The framework fits a log-odds resistance trend for each pathogen–antibiotic time series, estimates threshold-crossing time, quantifies uncertainty using residual bootstrap analysis, and assigns **OBSERVED ALERT** when the latest resistance is already at or above the selected threshold; otherwise prospective results are classified as **PASS**, **CAUTION**, or **FAIL** using model-based suitability criteria (not demonstrated forecast accuracy).
 
 ## Repository contents
 
-- `AMR_ALERT_UK_JP_GitHub_final.ipynb` — main AMR-ALERT forecasting notebook for England and Japan.
+- `AMR_ALERT_UK_JP_GitHub_final.ipynb` — AMR-ALERT forecasting notebook for England and Japan, including residual diagnostics (Cell 5).
 - `janis_compact_blood_named_validated.csv` — processed aggregate JANIS blood-isolate surveillance dataset used by the notebook.
+- `README.md` — implementation instructions and data provenance.
+- `LICENSE` — MIT license for software code (not the JANIS-derived dataset).
 
 ## Run the notebook
 
@@ -23,8 +24,9 @@ The notebook can be run in Google Colab or a compatible Jupyter environment.
 2. Place `janis_compact_blood_named_validated.csv` in the same working directory as the notebook.
 3. Run the notebook from the first cell onward.
 4. Select the country, pathogen, antibiotic and resistance threshold using the notebook controls.
+5. For the residual diagnostic assessment, run Cell 5 after Cells 1–3. Cell 5 exports `AMR_ALERT_Residual_Diagnostics_All.csv`; it does not change the forecasting calculations or classifications.
 
-England analyses retrieve current surveillance data from the UKHSA Data Dashboard API. Therefore, England analyses require internet access and depend on the availability of the UKHSA API.
+England analyses retrieve surveillance data from the UKHSA Data Dashboard API. UKHSA monthly resistance values are three-month rolling averages. The API may be updated over time, so results from later runs may differ from the historical manuscript outputs. England analyses require internet access.
 
 Japan analyses use the included processed JANIS dataset.
 
@@ -64,14 +66,19 @@ The main notebook contains the complete AMR-ALERT forecasting workflow used for 
 - log-odds transformation and linear regression;
 - threshold-crossing estimation;
 - residual-bootstrap uncertainty assessment;
-- PASS / CAUTION / FAIL forecast classification;
-- single-series and batch analysis.
+- OBSERVED ALERT and prospective PASS / CAUTION / FAIL classification;
+- single-series and batch analysis;
+- residual diagnostic tests (lag-1 Ljung–Box, Breusch–Pagan, and Shapiro–Wilk) and CSV export.
 
 No patient-level data are included in this repository.
 
+## Computational environment
+
+Run in **Google Colab** or a compatible **Python/Jupyter** environment. The notebook uses `numpy`, `pandas`, `matplotlib`, `ipywidgets`, `requests`, `openpyxl`, `scipy`, and `statsmodels`. Exact package versions and operating-system versions are not pinned here.
+
 ## Associated manuscript
 
-**AMR-ALERT: Forecasting Phenotypic Antimicrobial Resistance Thresholds from National Surveillance Data**
+**Antimicrobial Resistance Alert Framework: Forecasting Resistance Thresholds from National Surveillance Data**
 
 The repository is intended to support reproducibility and practical implementation of the AMR-ALERT framework described in the manuscript.
 
